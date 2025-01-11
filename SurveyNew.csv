@@ -1,0 +1,1252 @@
+,Age,Gender,self_employed,family_history,treatment,work_interfere,no_employees,remote_work,tech_company,anonymity,leave,mental_health_consequence,phys_health_consequence,coworkers,supervisor,mental_health_interview,phys_health_interview,mental_vs_physical,obs_consequence,comprehensive_care,comprehensive_support
+0,3,1,No,No,Yes,Often,6-25,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Yes_Not sure,No_Yes
+1,3,0,No,No,No,Rarely,More than 1000,No,No,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,Don't know_No,Don't know_Don't know
+2,2,0,No,No,No,Rarely,6-25,No,Yes,Don't know,Somewhat difficult,No,No,Yes,Yes,Yes,Yes,No,No,No_No,No_No
+3,1,0,No,Yes,Yes,Often,26-100,No,Yes,No,Somewhat difficult,Yes,Yes,Some of them,No,Maybe,Maybe,No,Yes,No_Yes,No_No
+4,1,0,No,No,No,Never,100-1000,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,Yes,Yes,Don't know,No,Yes_No,Don't know_Don't know
+5,2,0,No,Yes,No,Sometimes,6-25,No,Yes,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,Yes_Not sure,No_Don't know
+6,2,1,No,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Somewhat difficult,Maybe,Maybe,Some of them,No,No,No,Don't know,No,No_No,No_No
+7,3,0,No,No,No,Never,1-5,Yes,Yes,Yes,Don't know,No,No,No,No,No,No,No,No,No_Yes,No_No
+8,3,1,No,Yes,Yes,Sometimes,100-1000,No,Yes,No,Very difficult,Maybe,No,Yes,Yes,No,Maybe,No,No,Yes_Yes,No_No
+9,0,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Don't know_No,Don't know_Don't know
+10,1,0,No,No,Yes,Sometimes,6-25,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Don't know_No,No_No
+11,1,0,No,No,No,Never,100-1000,Yes,Yes,Don't know,Don't know,No,No,Yes,Yes,Yes,Yes,Don't know,No,Don't know_Not sure,No_No
+12,3,1,No,Yes,Yes,Sometimes,26-100,No,No,Don't know,Somewhat difficult,Yes,Yes,Yes,Yes,Maybe,Maybe,No,Yes,Yes_Yes,No_No
+13,2,0,No,Yes,No,Never,100-1000,No,Yes,Don't know,Don't know,No,No,Yes,Yes,No,No,Don't know,No,Don't know_Not sure,No_Don't know
+14,0,0,No,No,No,Never,6-25,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No,Don't know_Not sure,Don't know_Don't know
+15,1,1,No,Yes,Yes,Rarely,26-100,No,Yes,Don't know,Somewhat easy,No,No,Yes,Some of them,Maybe,Maybe,Don't know,No,Yes_Not sure,No_No
+16,0,0,No,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,Very easy,Maybe,No,Some of them,No,Maybe,Maybe,No,No,Don't know_No,Don't know_Don't know
+17,2,0,No,No,Yes,Sometimes,6-25,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,No,No,Yes_Yes,No_Don't know
+18,3,0,Yes,Yes,No,Sometimes,1-5,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,Yes,Yes,Yes,Yes_Not sure,Yes_Don't know
+19,2,0,Yes,Yes,No,Never,6-25,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,No_No,Yes_No
+20,1,0,No,Yes,Yes,Sometimes,100-1000,No,Yes,No,Somewhat difficult,Maybe,No,Some of them,Some of them,No,No,No,No,Yes_Yes,No_No
+21,1,0,Yes,No,No,Never,1-5,Yes,Yes,Yes,Somewhat difficult,No,No,Some of them,Some of them,No,Maybe,Yes,No,No_No,No_No
+22,3,0,No,No,Yes,Often,26-100,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,No,No,Yes_Yes,No_No
+23,3,0,No,No,Yes,Never,More than 1000,No,No,Don't know,Don't know,Maybe,No,No,No,No,Yes,Don't know,No,Don't know_No,No_Don't know
+24,2,0,No,Yes,Yes,Rarely,26-100,No,Yes,Yes,Don't know,No,No,Yes,Yes,No,Yes,Don't know,No,Yes_Not sure,Don't know_Yes
+25,2,0,No,Yes,Yes,Sometimes,More than 1000,No,No,No,Very easy,Yes,No,Some of them,Yes,No,Yes,No,No,Yes_Yes,No_Don't know
+26,2,0,No,No,No,Never,1-5,No,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,No,Don't know_Not sure,No_Don't know
+27,2,1,No,Yes,Yes,Rarely,6-25,Yes,Yes,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Yes_Yes,Don't know_Don't know
+28,2,0,No,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,Somewhat difficult,No,No,Some of them,No,No,No,No,No,Don't know_Not sure,No_Don't know
+29,3,0,No,No,No,Sometimes,6-25,No,Yes,Don't know,Very difficult,Yes,Maybe,Some of them,No,No,Maybe,No,No,No_No,No_No
+30,2,0,No,No,No,Never,6-25,Yes,Yes,Don't know,Don't know,Yes,Yes,Some of them,Some of them,No,Maybe,No,No,No_No,No_No
+31,1,0,Yes,Yes,No,Rarely,1-5,Yes,Yes,Don't know,Somewhat difficult,Yes,No,No,No,No,No,No,Yes,No_Yes,No_No
+32,1,0,No,Yes,Yes,Sometimes,100-1000,Yes,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,Yes,Don't know,No,Don't know_No,No_No
+33,3,0,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Very easy,Maybe,No,Some of them,Some of them,Maybe,Yes,Don't know,No,Yes_Yes,Yes_Yes
+34,3,1,No,No,Yes,Sometimes,1-5,No,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Yes,No,Yes_Yes,No_No
+35,0,0,No,No,Yes,Rarely,6-25,No,Yes,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,No_Yes,No_No
+36,1,0,No,No,No,Rarely,1-5,No,Yes,Don't know,Very easy,Yes,Maybe,Some of them,No,No,No,Don't know,No,No_No,No_No
+37,3,0,No,No,No,Never,100-1000,No,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,No_Yes,No_No
+38,3,0,No,No,No,Never,100-1000,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,Yes_Yes,No_Don't know
+39,2,0,No,No,Yes,Rarely,More than 1000,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Yes_Yes,No_Yes
+40,0,0,No,No,Yes,Sometimes,6-25,No,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Yes,No,Yes,No_No,No_No
+41,2,0,No,No,No,Never,More than 1000,Yes,Yes,Don't know,Somewhat difficult,Yes,Yes,Some of them,No,No,Maybe,Don't know,No,Yes_Not sure,Don't know_Yes
+42,0,0,No,Yes,Yes,Sometimes,1-5,No,Yes,Yes,Very difficult,Maybe,No,Some of them,No,No,No,Yes,No,No_Yes,No_No
+43,0,0,No,No,No,Often,6-25,No,Yes,Don't know,Somewhat difficult,Yes,Maybe,No,Some of them,No,No,No,No,No_Not sure,No_No
+44,1,0,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,Don't know,No,No,No,No,No,Maybe,Don't know,No,Don't know_No,No_No
+45,3,1,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,Yes_Yes,No_Yes
+46,1,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,No,Maybe,Some of them,Yes,Maybe,Yes,Don't know,No,Don't know_Not sure,No_No
+47,2,0,No,No,No,Never,6-25,No,Yes,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Don't know,No,No_No,No_No
+48,0,0,Yes,No,No,Sometimes,1-5,No,Yes,Don't know,Don't know,No,No,Yes,Yes,No,No,Yes,No,No_Yes,Yes_No
+49,1,0,No,Yes,Yes,Rarely,26-100,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,Yes_No,No_Don't know
+50,0,0,No,Yes,Yes,Often,6-25,No,Yes,Yes,Very difficult,Maybe,No,No,No,No,Maybe,Don't know,No,No_Yes,No_No
+51,2,0,No,No,No,Never,100-1000,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Don't know_Not sure,Don't know_Don't know
+52,1,0,No,No,No,Never,100-1000,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,Don't know_No,Don't know_Don't know
+53,2,0,No,No,No,Never,1-5,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,Don't know_Not sure,No_No
+54,1,0,No,No,No,Never,100-1000,No,Yes,Don't know,Don't know,No,No,No,No,No,Maybe,Don't know,No,No_No,No_No
+55,0,0,No,Yes,Yes,Rarely,26-100,No,Yes,Yes,Don't know,Maybe,No,No,No,No,No,Don't know,No,Yes_Yes,No_No
+56,2,0,No,Yes,No,Never,6-25,Yes,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,Don't know_No,No_No
+57,0,0,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,Don't know,No,Maybe,Some of them,Yes,Yes,Yes,No,No,Don't know_No,No_No
+58,0,0,No,No,No,Never,26-100,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,No_No,No_No
+59,2,0,No,Yes,Yes,Often,6-25,Yes,Yes,No,Somewhat difficult,Yes,No,No,No,No,Maybe,Don't know,No,Don't know_No,No_No
+60,3,0,No,Yes,Yes,Sometimes,More than 1000,No,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,Maybe,Don't know,Yes,Yes_No,No_Don't know
+61,0,1,No,No,Yes,Sometimes,26-100,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,Don't know_Not sure,Yes_Yes
+62,0,0,No,No,No,Never,100-1000,No,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Yes_Not sure,No_Yes
+63,0,0,No,No,No,Never,26-100,No,Yes,Don't know,Very easy,Yes,No,No,No,No,No,No,Yes,No_No,No_No
+64,2,0,No,No,No,Sometimes,6-25,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Don't know,No,Don't know_No,No_No
+65,3,0,No,Yes,No,Sometimes,More than 1000,Yes,Yes,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,No,Yes,Yes_Yes,Yes_Yes
+66,0,1,No,Yes,Yes,Often,1-5,Yes,Yes,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,No_Not sure,No_No
+67,2,0,No,No,No,Sometimes,100-1000,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,Maybe,Yes,Yes,No,Yes_No,Don't know_Yes
+68,1,1,No,No,No,Never,26-100,Yes,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Don't know_No,Don't know_Don't know
+69,2,0,Yes,No,No,Rarely,1-5,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,No_No,No_No
+70,1,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,No_No,No_No
+71,2,0,No,No,No,Never,6-25,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,Don't know_Not sure,Don't know_Don't know
+72,0,2,No,No,No,Rarely,More than 1000,No,Yes,Yes,Somewhat difficult,Maybe,No,Yes,Yes,No,No,No,No,Yes_Yes,No_No
+73,3,0,No,No,No,Never,26-100,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,No_No,No_Don't know
+74,2,0,No,No,No,Never,More than 1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Yes,No,Don't know_Not sure,Yes_Don't know
+75,0,0,No,No,No,Never,1-5,No,Yes,No,Somewhat difficult,Yes,No,No,No,No,Maybe,No,No,No_Yes,No_No
+76,0,0,No,No,No,Never,More than 1000,Yes,Yes,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Yes,No,Yes_Yes,Yes_Yes
+77,1,0,Yes,Yes,No,Sometimes,1-5,Yes,Yes,Yes,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,Yes,No,No_No,No_No
+78,2,0,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,Somewhat difficult,Yes,No,Some of them,No,No,Yes,No,No,No_No,No_No
+79,1,0,No,No,No,Never,6-25,Yes,Yes,Don't know,Very easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No,Don't know_No,Don't know_Don't know
+80,3,0,No,Yes,No,Sometimes,100-1000,Yes,Yes,Don't know,Don't know,No,No,Yes,Some of them,Maybe,Maybe,Yes,No,Yes_Yes,No_Yes
+81,0,0,No,No,No,Never,26-100,No,Yes,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Yes_Not sure,Yes_Don't know
+82,1,0,No,No,No,Never,26-100,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,No,No,No_No,No_No
+83,0,1,Yes,No,Yes,Often,1-5,Yes,Yes,Yes,Very easy,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No,Yes_Yes,Yes_Yes
+84,2,0,No,Yes,No,Never,More than 1000,No,Yes,Don't know,Don't know,Yes,No,No,No,No,Maybe,No,No,No_No,No_No
+85,1,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,No,No,Don't know_Not sure,No_No
+86,3,0,Yes,No,Yes,Often,6-25,No,Yes,Don't know,Very difficult,Maybe,No,Some of them,No,No,Maybe,No,Yes,No_No,No_No
+87,2,1,No,Yes,Yes,Rarely,100-1000,Yes,Yes,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,No,Don't know,No,Yes_Not sure,No_Don't know
+88,1,1,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,Yes,Yes_Yes,No_No
+89,2,0,No,No,No,Never,100-1000,No,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,Don't know_No,No_Don't know
+90,1,0,No,No,No,Never,100-1000,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,Yes_Yes,Yes_Yes
+91,3,0,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Very difficult,No,No,Yes,Yes,Yes,Yes,No,No,No_Yes,No_No
+92,2,0,No,No,No,Never,26-100,No,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Don't know_No,No_No
+93,0,2,No,No,No,Never,26-100,Yes,Yes,Yes,Somewhat easy,No,No,Yes,Yes,Yes,Yes,Don't know,No,Yes_Yes,No_No
+94,0,1,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,Yes_Yes,No_Don't know
+95,1,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,No,No,Don't know_No,No_Don't know
+96,0,0,No,Yes,No,Rarely,26-100,No,Yes,Don't know,Somewhat easy,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No,Don't know_Not sure,No_Don't know
+97,1,0,No,Yes,Yes,Sometimes,6-25,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Yes,No,No,Don't know_No,No_No
+98,2,0,No,No,Yes,Sometimes,6-25,No,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,No,No,No_Yes,No_No
+99,1,0,No,No,Yes,Often,1-5,No,Yes,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,No_Yes,No_No
+100,0,1,No,Yes,Yes,Sometimes,26-100,No,No,No,Very difficult,Yes,No,No,No,No,Maybe,No,Yes,No_Yes,No_No
+101,3,1,No,No,No,Never,100-1000,No,Yes,Don't know,Don't know,Maybe,Maybe,No,Some of them,No,No,Don't know,No,Yes_Not sure,Don't know_Don't know
+102,0,0,No,Yes,No,Never,26-100,No,Yes,Don't know,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,Don't know_No,Don't know_Don't know
+103,2,0,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Yes_Yes,Yes_Yes
+104,1,0,No,No,No,Never,More than 1000,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,Yes_Not sure,Yes_Don't know
+105,2,0,No,Yes,No,Rarely,6-25,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,Yes_Not sure,No_No
+106,2,0,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,Don't know_Not sure,No_No
+107,1,0,No,Yes,Yes,Rarely,6-25,No,Yes,No,Don't know,Maybe,No,Yes,Yes,No,No,Don't know,Yes,No_No,No_No
+108,2,0,No,Yes,No,Never,6-25,Yes,Yes,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,Yes_No,No_No
+109,2,0,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Somewhat difficult,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,Yes_No,Yes_Yes
+110,0,0,No,No,Yes,Sometimes,100-1000,No,Yes,Yes,Don't know,Yes,No,No,No,No,Yes,No,No,Yes_Yes,No_Don't know
+111,1,0,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,Yes_Yes,Yes_Yes
+112,3,0,No,Yes,Yes,Rarely,6-25,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes_Yes,No_Yes
+113,2,0,No,No,No,Never,100-1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Yes_Yes,No_Don't know
+114,1,0,No,No,No,Never,More than 1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Don't know_No,No_Don't know
+115,0,0,No,No,No,Never,6-25,No,Yes,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Don't know,Yes,Don't know_No,No_Don't know
+116,0,0,Yes,No,No,Often,1-5,Yes,No,Yes,Very difficult,Yes,No,Some of them,Yes,No,Maybe,No,No,No_Yes,No_No
+117,0,0,No,No,No,Rarely,6-25,No,No,Yes,Very easy,Maybe,No,Some of them,Yes,No,No,Don't know,No,Yes_Yes,Yes_Yes
+118,0,0,No,No,Yes,Rarely,1-5,Yes,Yes,Yes,Very easy,No,No,Some of them,No,No,No,Don't know,No,No_No,No_No
+119,2,0,No,No,No,Never,26-100,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Don't know_Not sure,No_Don't know
+120,1,0,No,No,No,Never,More than 1000,No,Yes,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No,Yes_Yes,No_Yes
+121,0,0,No,No,No,Never,26-100,Yes,Yes,Don't know,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,Don't know_No,No_No
+122,2,0,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,Maybe,Yes,No,Don't know_No,Don't know_Don't know
+123,2,0,No,No,No,Often,6-25,No,Yes,Yes,Don't know,Maybe,No,No,No,No,No,Don't know,No,Yes_No,No_No
+124,0,0,No,No,Yes,Never,100-1000,No,No,Don't know,Very difficult,Maybe,No,Some of them,Yes,No,Maybe,No,Yes,Yes_Not sure,No_No
+125,0,0,No,Yes,No,Never,100-1000,No,Yes,Yes,Don't know,Yes,No,Some of them,No,No,Yes,Don't know,No,Yes_No,Yes_Yes
+126,0,0,No,No,No,Never,6-25,No,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,No_No,No_No
+127,2,0,No,No,Yes,Rarely,100-1000,No,Yes,Yes,Don't know,Yes,No,No,Yes,No,No,Don't know,No,Yes_Yes,No_Yes
+128,1,0,No,Yes,No,Sometimes,6-25,No,Yes,Don't know,Somewhat easy,Maybe,Maybe,No,No,No,No,Yes,No,No_No,No_No
+129,0,0,No,No,Yes,Sometimes,6-25,No,Yes,Don't know,Somewhat easy,Yes,Yes,Some of them,No,No,No,Don't know,No,Don't know_No,No_No
+130,2,0,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Very easy,Maybe,No,Yes,Some of them,No,Yes,No,No,Yes_Yes,No_No
+131,2,0,No,No,No,Rarely,1-5,Yes,Yes,Don't know,Very difficult,Maybe,No,Yes,Some of them,No,Yes,Don't know,No,No_Yes,No_No
+132,0,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,Don't know_Not sure,Don't know_Don't know
+133,3,0,No,No,No,Never,26-100,Yes,Yes,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Yes,No,No,No_Yes,No_No
+134,0,0,No,No,Yes,Never,26-100,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,Don't know_No,No_No
+135,3,0,No,No,No,Never,26-100,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,No_No,No_No
+136,1,0,No,No,No,Never,6-25,No,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Don't know_No,No_No
+137,3,0,No,No,Yes,Often,More than 1000,No,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,No,No,Don't know,No,Yes_Not sure,No_No
+138,1,1,No,No,No,Never,6-25,No,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,No,Don't know,No,Don't know_No,No_Don't know
+139,0,0,No,No,No,Never,6-25,Yes,Yes,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,No,Don't know_No,Don't know_No
+140,3,0,No,Yes,Yes,Sometimes,100-1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,Don't know_No,Don't know_Don't know
+141,3,0,Yes,No,Yes,Sometimes,More than 1000,No,No,Yes,Very difficult,Yes,Yes,Some of them,No,No,Maybe,Yes,No,No_Yes,Yes_Yes
+142,2,0,No,No,No,Never,26-100,Yes,No,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No,Don't know_Not sure,Don't know_Don't know
+144,1,1,No,Yes,No,Never,More than 1000,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,No,Don't know_Not sure,No_Don't know
+145,3,0,No,Yes,Yes,Rarely,100-1000,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,Don't know,No,Yes_Yes,Yes_Yes
+146,0,0,No,No,No,Never,6-25,No,Yes,Yes,Don't know,Maybe,Maybe,No,Some of them,No,No,Don't know,No,No_No,No_No
+147,0,0,No,No,No,Sometimes,6-25,No,No,No,Somewhat easy,Yes,Yes,No,No,No,No,No,No,No_No,No_No
+148,1,0,No,No,Yes,Rarely,100-1000,No,Yes,Don't know,Somewhat easy,Yes,No,Some of them,No,No,No,No,Yes,No_Yes,Yes_Yes
+149,1,1,No,No,No,Never,100-1000,Yes,Yes,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,Don't know_Not sure,No_Don't know
+150,0,0,Yes,Yes,No,Never,1-5,Yes,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Don't know_Not sure,No_Yes
+151,2,0,No,Yes,No,Never,26-100,No,Yes,Don't know,Very easy,No,No,Some of them,Some of them,No,Maybe,No,No,Don't know_Not sure,No_No
+152,1,0,No,No,No,Rarely,6-25,Yes,Yes,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Yes,No,No_No,No_No
+153,2,0,No,No,No,Never,6-25,No,Yes,Don't know,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Don't know_Not sure,Don't know_Don't know
+154,3,0,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,Somewhat difficult,Yes,Maybe,Some of them,No,No,Yes,No,Yes,Yes_Yes,Yes_Yes
+155,0,0,No,Yes,Yes,Sometimes,26-100,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Maybe,No,No,Don't know_No,No_Don't know
+156,0,0,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Don't know,No,No,No,Some of them,No,Maybe,Don't know,No,Don't know_No,No_Don't know
+157,0,0,No,No,No,Often,26-100,No,No,Don't know,Don't know,Yes,Maybe,Some of them,Yes,No,Maybe,No,No,Don't know_Not sure,No_No
+158,0,0,No,No,Yes,Rarely,26-100,Yes,Yes,Don't know,Somewhat difficult,Maybe,No,Some of them,Yes,No,No,Don't know,Yes,No_Yes,No_No
+159,0,0,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Very easy,Maybe,No,Some of them,No,No,No,Don't know,Yes,Don't know_Not sure,No_No
+160,2,0,No,No,Yes,Sometimes,More than 1000,No,No,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,Yes,Yes_Yes,Yes_Yes
+161,0,1,No,Yes,Yes,Sometimes,100-1000,No,Yes,Don't know,Don't know,Yes,Yes,Some of them,Some of them,No,No,Don't know,No,Yes_No,No_No
+162,1,0,No,No,No,Never,More than 1000,No,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,Yes_No,No_Yes
+163,0,0,No,Yes,No,Rarely,6-25,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,Don't know_No,No_No
+164,2,1,Yes,Yes,Yes,Sometimes,1-5,No,Yes,Yes,Very difficult,No,No,Some of them,Yes,No,Yes,Yes,No,No_Yes,Yes_Yes
+165,0,1,Yes,Yes,No,Never,1-5,Yes,Yes,Yes,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No,No_Yes,No_No
+166,2,0,No,No,No,Never,26-100,No,Yes,Don't know,Very easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,No_No,No_No
+167,3,0,No,No,No,Never,6-25,No,Yes,Don't know,Very difficult,Maybe,No,Yes,Yes,No,Maybe,No,No,No_Yes,No_No
+168,0,0,Yes,Yes,No,Sometimes,1-5,No,Yes,Don't know,Very difficult,Yes,No,No,No,No,Maybe,No,No,No_No,No_No
+169,0,0,No,No,No,Rarely,100-1000,No,Yes,Don't know,Very easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,No,Don't know_Not sure,Yes_Don't know
+170,0,0,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Somewhat easy,No,No,Yes,Yes,No,No,Don't know,No,Yes_Yes,Don't know_Don't know
+171,1,0,Yes,No,Yes,Often,6-25,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,Don't know_No,No_No
+172,0,0,No,No,Yes,Never,More than 1000,No,Yes,Don't know,Very difficult,Yes,Maybe,No,No,Maybe,Maybe,No,No,Don't know_Not sure,No_No
+173,0,1,No,No,No,Never,6-25,No,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No,Don't know_No,No_Don't know
+174,2,1,No,Yes,Yes,Sometimes,More than 1000,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,No,No,Yes_Yes,Yes_No
+175,1,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,Don't know_Not sure,No_Don't know
+176,1,0,No,No,No,Never,100-1000,No,No,Yes,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,No_Not sure,No_Yes
+177,2,1,No,No,Yes,Often,6-25,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,Yes,Yes_Not sure,Don't know_Don't know
+178,3,1,No,No,Yes,Sometimes,1-5,No,Yes,Yes,Somewhat difficult,No,No,Yes,Yes,No,No,Yes,No,Yes_No,No_No
+179,2,0,No,No,No,Never,6-25,Yes,Yes,Don't know,Very easy,No,No,Yes,Yes,No,Maybe,Don't know,No,Don't know_No,No_No
+180,1,0,No,No,No,Never,6-25,Yes,Yes,No,Don't know,Maybe,Maybe,No,Yes,Maybe,Yes,No,No,No_No,No_No
+181,0,1,Yes,No,No,Sometimes,6-25,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,No_No,No_No
+182,1,1,No,No,No,Never,26-100,No,Yes,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,Don't know_No,No_Don't know
+183,3,0,No,No,Yes,Sometimes,More than 1000,No,Yes,Don't know,Don't know,Yes,Yes,Some of them,Some of them,No,No,Don't know,No,Don't know_Not sure,Don't know_Don't know
+184,3,0,No,Yes,Yes,Often,More than 1000,Yes,Yes,Don't know,Very difficult,Yes,Maybe,No,No,No,No,No,No,Yes_Not sure,No_Don't know
+185,3,0,No,No,No,Never,100-1000,Yes,Yes,Don't know,Don't know,Yes,No,Some of them,No,Maybe,Yes,No,No,Yes_No,No_No
+186,0,0,No,No,No,Sometimes,6-25,No,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,Maybe,Yes,Yes,No,Don't know_No,No_Don't know
+187,0,0,No,No,No,Never,6-25,Yes,Yes,Don't know,Somewhat easy,No,No,Some of them,No,No,Maybe,Yes,No,No_Yes,No_No
+188,0,0,No,Yes,No,Never,1-5,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,Don't know_No,No_No
+189,2,1,No,Yes,Yes,Never,More than 1000,No,Yes,Yes,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No,Yes_Not sure,Don't know_No
+190,3,1,Yes,Yes,Yes,Often,1-5,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,Yes,No_Yes,No_No
+191,1,0,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Somewhat easy,Maybe,Maybe,Some of them,No,No,Maybe,No,No,Yes_No,No_No
+192,1,0,No,No,No,Sometimes,26-100,No,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,No_No,No_No
+193,2,0,No,No,Yes,Rarely,6-25,No,Yes,Yes,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,No_No,No_No
+194,2,1,No,No,No,Sometimes,100-1000,No,Yes,Don't know,Very difficult,Yes,Yes,Some of them,No,No,No,No,Yes,No_No,No_No
+195,1,0,Yes,Yes,No,Never,6-25,No,Yes,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,No,No_No,No_No
+196,2,1,No,No,No,Never,100-1000,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,No,Don't know_Not sure,No_No
+197,0,0,No,No,No,Rarely,More than 1000,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,Yes_No,No_No
+198,0,0,No,Yes,No,Never,6-25,Yes,Yes,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,Yes,No,Yes_Yes,No_No
+199,1,0,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No,Don't know_No,No_No
+200,0,1,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Yes,No,Yes_No,No_No
+201,2,1,No,No,Yes,Sometimes,100-1000,No,No,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,Yes_Yes,Yes_Yes
+202,3,0,No,No,Yes,Often,6-25,Yes,Yes,Don't know,Very difficult,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,No_Not sure,No_No
+203,3,0,No,No,No,Sometimes,1-5,No,Yes,Don't know,Very difficult,Yes,No,No,No,No,Yes,Don't know,No,No_Yes,No_No
+204,2,0,No,Yes,No,Never,100-1000,Yes,Yes,Don't know,Very easy,No,No,Yes,Yes,No,No,Yes,No,Don't know_No,Don't know_Don't know
+205,2,0,No,Yes,Yes,Sometimes,100-1000,Yes,Yes,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,No,No,Yes,Don't know_Not sure,No_No
+206,0,0,No,No,Yes,Sometimes,6-25,Yes,Yes,Don't know,Somewhat difficult,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,No_Yes,No_No
+207,1,0,No,No,Yes,Often,26-100,No,Yes,Yes,Somewhat easy,Maybe,No,Yes,Yes,No,Maybe,Don't know,No,No_Yes,No_No
+208,0,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Don't know_Not sure,No_Don't know
+209,0,0,No,No,No,Never,100-1000,No,Yes,No,Very easy,Yes,Maybe,No,No,No,Maybe,Don't know,No,No_No,No_No
+210,3,1,No,No,No,Never,26-100,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,Yes_Yes,Yes_Yes
+211,3,0,No,Yes,No,Sometimes,26-100,No,No,Don't know,Don't know,Yes,Maybe,Some of them,Yes,No,Maybe,Don't know,No,No_No,No_No
+212,0,0,Yes,No,Yes,Often,1-5,Yes,Yes,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,No_No,No_No
+213,2,1,No,Yes,Yes,Sometimes,6-25,No,Yes,No,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,No,Yes,Don't know_No,No_No
+214,2,1,No,No,Yes,Sometimes,100-1000,No,No,Yes,Very easy,No,No,Yes,Yes,No,Yes,Yes,No,Yes_Yes,Don't know_Don't know
+215,0,1,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,Very difficult,No,No,Some of them,No,No,No,Don't know,No,No_No,Don't know_Don't know
+216,1,0,Yes,No,Yes,Often,6-25,Yes,Yes,Yes,Very difficult,No,No,Some of them,Yes,Maybe,Yes,Yes,No,Yes_Yes,No_No
+217,1,0,Yes,No,No,Never,6-25,No,Yes,Yes,Very easy,No,No,Some of them,Some of them,No,No,Yes,No,Yes_Yes,No_Don't know
+218,1,1,No,No,Yes,Never,100-1000,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,No,No,No,Don't know,No,Yes_No,No_Don't know
+219,3,0,No,No,No,Never,26-100,No,Yes,Don't know,Very easy,Yes,No,No,Some of them,No,No,Don't know,No,Yes_Not sure,No_No
+220,2,1,No,No,No,Never,6-25,No,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Yes_No,No_No
+221,2,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,No,No,Yes,Yes,Yes,Yes,Don't know,No,Don't know_No,No_No
+222,1,0,No,No,No,Rarely,6-25,No,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,No,Don't know_No,No_No
+223,1,0,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Very difficult,Yes,No,No,Some of them,No,No,No,No,No_Yes,No_No
+224,0,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,No,No,No,Yes,No,Yes,Yes,No,Don't know_Not sure,Don't know_Don't know
+225,0,0,No,No,No,Never,1-5,No,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,Don't know_No,Don't know_No
+226,2,0,No,No,No,Rarely,1-5,Yes,Yes,Don't know,Very difficult,No,No,Some of them,Yes,No,Maybe,Yes,No,No_Yes,No_No
+227,2,0,Yes,No,No,Sometimes,1-5,Yes,Yes,Don't know,Somewhat difficult,Yes,Yes,No,No,No,Maybe,Yes,No,Don't know_Not sure,Yes_Yes
+228,0,0,No,No,No,Never,6-25,No,Yes,Don't know,Very easy,Maybe,No,Some of them,No,Maybe,Maybe,Yes,No,Yes_Not sure,No_Don't know
+229,0,0,Yes,No,Yes,Sometimes,1-5,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Yes,No,No_Yes,No_No
+230,2,0,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,Yes_No,No_Yes
+231,3,0,No,No,Yes,Rarely,100-1000,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,No,Maybe,Maybe,No,No,Yes_Yes,No_Don't know
+232,3,0,No,No,Yes,Sometimes,More than 1000,No,No,Don't know,Very difficult,Yes,No,No,No,No,Maybe,No,No,Don't know_Not sure,Don't know_Don't know
+233,3,0,No,No,No,Sometimes,26-100,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,Maybe,No,No,Don't know_Not sure,No_Don't know
+234,1,0,No,No,No,Never,26-100,No,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,No,Yes,No,Don't know_No,Don't know_Don't know
+235,0,0,No,No,No,Never,26-100,No,Yes,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,No,No,No_No,No_No
+236,3,0,No,Yes,Yes,Often,26-100,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No,Yes_Yes,No_Don't know
+237,2,0,No,Yes,No,Never,6-25,No,Yes,Yes,Somewhat difficult,No,No,Some of them,Yes,No,Yes,No,Yes,No_No,No_No
+238,3,1,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,Yes_Yes,Yes_Yes
+239,1,1,No,Yes,Yes,Sometimes,6-25,No,No,Yes,Don't know,No,No,Some of them,Yes,No,No,No,Yes,Yes_Yes,Yes_Yes
+240,0,0,No,No,No,Never,6-25,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,No,No,Don't know_No,No_No
+241,2,0,No,Yes,Yes,Sometimes,1-5,No,Yes,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Maybe,No,Yes,No_No,No_No
+242,2,0,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,Yes_Yes,Yes_Yes
+243,0,0,No,No,No,Never,6-25,No,Yes,Yes,Somewhat difficult,Maybe,No,Some of them,Yes,No,Yes,No,No,No_No,No_No
+244,0,0,No,No,No,Never,More than 1000,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Yes_Yes,Don't know_Don't know
+245,3,0,No,No,Yes,Sometimes,More than 1000,Yes,Yes,Yes,Don't know,Yes,Maybe,No,No,No,Maybe,No,Yes,Yes_Yes,Yes_Yes
+246,0,0,No,No,Yes,Often,6-25,No,No,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,Don't know_No,No_Don't know
+247,1,0,No,No,No,Never,6-25,No,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,No_No,No_No
+248,2,0,No,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,Don't know,Maybe,No,Yes,Yes,No,Yes,Don't know,No,No_No,No_No
+249,1,1,No,Yes,Yes,Rarely,100-1000,Yes,No,Yes,Don't know,Maybe,No,Some of them,No,Maybe,Yes,Don't know,No,Yes_Yes,Yes_Don't know
+250,0,0,No,Yes,Yes,Sometimes,26-100,Yes,No,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,Yes,Yes,No,Don't know_No,No_Don't know
+251,1,0,No,Yes,No,Never,100-1000,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,Yes,Yes_No,No_Don't know
+252,1,0,No,Yes,Yes,Rarely,100-1000,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Yes_Yes,Yes_Don't know
+253,0,0,No,No,No,Never,100-1000,No,No,No,Very easy,Maybe,Maybe,Yes,Yes,No,No,Don't know,No,Don't know_Not sure,Don't know_Don't know
+254,0,0,No,No,No,Sometimes,6-25,No,Yes,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,Don't know_No,Don't know_Don't know
+255,1,0,No,No,No,Often,6-25,No,Yes,Don't know,Somewhat difficult,Yes,No,No,No,No,Maybe,Don't know,No,No_No,No_No
+256,0,1,No,No,Yes,Sometimes,6-25,No,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,Yes,No,Don't know_Not sure,Don't know_Don't know
+257,3,0,No,No,No,Never,6-25,Yes,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,No_Yes,No_Yes
+258,0,0,No,No,No,Never,1-5,No,Yes,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Yes,No,No,No_No,No_No
+259,0,0,No,Yes,Yes,Often,6-25,No,Yes,No,Very difficult,Yes,Maybe,No,No,No,Yes,No,Yes,No_Yes,No_No
+260,0,1,No,No,Yes,Rarely,6-25,No,Yes,Yes,Don't know,Maybe,Maybe,Yes,No,No,Maybe,Don't know,No,Yes_No,No_No
+261,0,0,No,No,No,Sometimes,6-25,Yes,Yes,No,Very difficult,Yes,Yes,Some of them,Some of them,No,Maybe,No,No,No_Yes,No_No
+262,1,0,No,No,Yes,Sometimes,100-1000,Yes,Yes,Yes,Don't know,No,No,Yes,Yes,Maybe,No,Yes,No,Yes_Yes,No_Yes
+263,1,0,No,Yes,Yes,Rarely,6-25,No,Yes,Yes,Very difficult,Maybe,No,Some of them,Some of them,No,Yes,No,No,No_Yes,No_No
+264,3,0,Yes,No,No,Never,6-25,Yes,Yes,Don't know,Somewhat easy,Maybe,No,Yes,Yes,Yes,Yes,Don't know,No,No_Not sure,No_No
+265,2,0,No,No,No,Never,6-25,No,Yes,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Don't know,No,No_Yes,No_Don't know
+266,3,0,No,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes_Yes,Don't know_No
+267,2,0,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,Very easy,Maybe,Maybe,Yes,Some of them,Maybe,Maybe,Don't know,Yes,Don't know_Not sure,Don't know_Don't know
+268,3,1,No,Yes,Yes,Often,26-100,No,Yes,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No,Yes_Yes,No_No
+269,2,0,No,No,No,Never,6-25,Yes,Yes,Don't know,Very easy,No,No,Yes,Yes,No,No,Don't know,No,No_No,No_No
+270,1,0,Yes,No,No,Sometimes,1-5,Yes,Yes,Don't know,Somewhat difficult,No,No,Some of them,Some of them,No,Maybe,No,No,No_No,No_No
+271,0,1,No,Yes,Yes,Never,100-1000,No,No,Yes,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Yes_No,Don't know_Don't know
+272,1,0,No,No,No,Never,More than 1000,No,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Yes_Yes,Yes_Yes
+273,2,0,No,No,No,Sometimes,26-100,No,Yes,Don't know,Somewhat easy,Maybe,Maybe,Yes,Some of them,No,No,Don't know,No,No_Yes,No_No
+274,3,0,No,No,Yes,Rarely,26-100,Yes,Yes,Don't know,Don't know,Yes,No,No,No,No,Maybe,No,No,Yes_No,No_No
+275,2,0,No,No,No,Never,100-1000,No,Yes,Yes,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Yes_No,Yes_Yes
+276,2,0,No,No,No,Never,26-100,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Yes_No,No_No
+277,1,0,No,No,No,Sometimes,6-25,No,Yes,Don't know,Somewhat easy,Maybe,Maybe,No,Some of them,No,No,Don't know,No,No_Yes,No_No
+278,1,0,No,No,Yes,Rarely,100-1000,No,No,Don't know,Very easy,Maybe,No,Some of them,Some of them,No,No,Yes,No,Yes_Yes,Yes_Don't know
+279,0,0,No,Yes,No,Sometimes,100-1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,No,No,Don't know_No,No_Don't know
+280,0,0,Yes,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,Yes,No,Yes,Don't know_Not sure,Yes_Yes
+281,0,0,No,No,No,Never,6-25,No,Yes,Yes,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,No_No,No_No
+282,0,0,No,No,Yes,Sometimes,6-25,No,Yes,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,Don't know_No,No_Don't know
+283,2,0,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Somewhat difficult,Yes,No,No,Some of them,No,Maybe,Don't know,No,Yes_Yes,No_No
+284,0,0,No,No,No,Never,100-1000,No,No,Don't know,Don't know,No,No,Some of them,Some of them,No,Yes,No,No,Don't know_Not sure,No_No
+285,0,0,No,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Somewhat easy,Maybe,Maybe,Yes,Yes,Yes,Yes,Yes,No,No_No,No_No
+286,0,1,No,Yes,Yes,Rarely,More than 1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Yes_Not sure,Don't know_Don't know
+287,0,0,No,No,No,Never,26-100,No,Yes,Don't know,Very easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,Don't know_Not sure,Don't know_Don't know
+288,3,1,No,No,Yes,Sometimes,1-5,No,Yes,Don't know,Don't know,No,Maybe,Some of them,No,No,No,Don't know,Yes,No_Yes,No_No
+289,0,1,No,Yes,Yes,Rarely,More than 1000,Yes,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,No,Don't know,No,Yes_Yes,Yes_Don't know
+290,1,0,Yes,No,No,Never,1-5,No,Yes,No,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,No_No,No_No
+291,2,0,No,No,No,Never,More than 1000,No,Yes,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,No,Don't know,No,Don't know_No,No_Don't know
+292,3,0,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,Yes_Yes,Don't know_Don't know
+293,2,0,No,No,No,Never,More than 1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Yes_No,No_Don't know
+294,3,0,No,No,Yes,Never,More than 1000,No,Yes,Don't know,Don't know,No,Maybe,Yes,Some of them,No,Maybe,Don't know,No,Yes_Not sure,Don't know_Don't know
+295,0,1,No,No,No,Never,100-1000,No,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,No,No,Don't know_Not sure,No_Don't know
+296,1,1,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Very easy,No,No,Yes,Yes,No,Yes,Yes,No,Yes_Yes,Yes_Don't know
+297,3,0,No,No,No,Never,More than 1000,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Yes_No,Don't know_Yes
+298,2,0,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,Yes_No,Yes_Yes
+299,3,0,No,No,No,Never,More than 1000,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Yes_Yes,Yes_Yes
+300,0,1,No,No,Yes,Sometimes,More than 1000,No,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Yes,No,Yes_Yes,Yes_Yes
+301,1,1,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,Yes_Not sure,Don't know_Don't know
+302,0,0,No,No,No,Rarely,100-1000,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,Yes_Not sure,No_Don't know
+303,1,1,No,Yes,Yes,Often,100-1000,Yes,No,Yes,Somewhat easy,Yes,No,Some of them,Yes,No,No,Yes,No,Yes_Yes,Yes_Yes
+304,3,1,No,No,Yes,Rarely,More than 1000,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,Yes_Yes,Don't know_Yes
+305,0,0,No,Yes,Yes,Often,6-25,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,Maybe,Maybe,Yes,No,Yes_No,No_Don't know
+306,1,2,No,Yes,Yes,Rarely,26-100,No,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Don't know,No,Yes_Not sure,No_No
+307,0,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Yes,No_No,No_No
+308,0,0,No,No,No,Never,26-100,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Don't know_Not sure,No_Don't know
+309,0,0,No,No,No,Sometimes,100-1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,Yes_Not sure,Yes_Yes
+310,0,0,No,No,Yes,Often,6-25,Yes,No,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,Don't know,No,Don't know_No,No_Don't know
+311,2,0,No,No,Yes,Rarely,100-1000,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Yes_Not sure,Don't know_Yes
+312,2,0,Yes,No,Yes,Never,1-5,No,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,No_Yes,No_No
+313,0,0,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Don't know,Yes,No,No,No,No,No,No,No,Yes_Not sure,No_Don't know
+314,0,0,No,Yes,No,Never,More than 1000,No,Yes,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Don't know_No,Don't know_Don't know
+315,1,0,No,No,No,Never,6-25,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Don't know_Not sure,No_Don't know
+316,1,0,No,No,No,Never,100-1000,No,No,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,Don't know_Not sure,No_Don't know
+317,0,0,No,No,No,Never,More than 1000,No,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Yes_Yes,Yes_Yes
+318,0,1,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Somewhat easy,Maybe,No,No,Some of them,No,No,Yes,Yes,Yes_Yes,Yes_Yes
+319,1,0,No,No,No,Never,26-100,No,Yes,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,No_Yes,No_No
+320,3,0,No,Yes,Yes,Rarely,100-1000,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Yes_Yes,Don't know_Yes
+321,1,0,No,No,Yes,Sometimes,More than 1000,No,Yes,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Maybe,No,No,Yes_No,No_Don't know
+322,2,0,No,No,No,Never,100-1000,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Yes_Not sure,Don't know_Yes
+323,0,1,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Yes_Yes,No_Yes
+324,0,0,No,No,Yes,Rarely,6-25,No,Yes,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,Yes_No,Don't know_No
+325,0,0,No,No,No,Never,More than 1000,No,Yes,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,Don't know_Not sure,Don't know_Don't know
+326,1,1,No,No,No,Never,More than 1000,No,Yes,Yes,Somewhat easy,Maybe,Maybe,No,Some of them,No,No,Don't know,No,Yes_Yes,Yes_Yes
+327,0,0,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Don't know,No,No,Yes,Yes,No,No,Yes,No,Don't know_Not sure,Don't know_Yes
+328,1,0,Yes,No,No,Never,1-5,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,No_Yes,No_No
+329,2,0,Yes,Yes,Yes,Rarely,1-5,No,No,Don't know,Somewhat difficult,Yes,Yes,No,No,Maybe,No,Yes,Yes,No_No,No_No
+330,0,0,No,No,No,Never,26-100,No,Yes,Yes,Very easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,Yes_Not sure,Yes_Yes
+331,0,0,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,No,No,Yes_Yes,No_Don't know
+332,1,0,No,No,No,Never,100-1000,No,No,Yes,Somewhat easy,Maybe,No,No,No,No,Yes,No,No,Don't know_No,No_No
+333,3,0,Yes,No,Yes,Often,1-5,No,Yes,Don't know,Very difficult,No,No,No,No,No,No,Don't know,No,No_No,No_No
+334,1,0,No,No,No,Never,6-25,Yes,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,No,No,No_Yes,No_No
+335,3,0,No,No,No,Never,26-100,No,Yes,Don't know,Very easy,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Yes_Not sure,Yes_Don't know
+336,1,0,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Don't know_No,No_Don't know
+337,1,1,Yes,No,No,Sometimes,More than 1000,No,Yes,Don't know,Very easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Yes_Not sure,Don't know_No
+338,0,0,No,No,No,Never,More than 1000,No,Yes,Yes,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,Yes_Yes,Don't know_Don't know
+339,1,0,No,No,No,Never,26-100,No,Yes,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Yes_Yes,Yes_Yes
+340,2,0,No,No,No,Never,26-100,No,No,Don't know,Don't know,No,No,Yes,Yes,No,No,No,No,Don't know_Not sure,No_Don't know
+341,2,1,No,Yes,No,Sometimes,26-100,Yes,Yes,Don't know,Very difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,No,No,No_Yes,No_No
+342,0,0,No,No,No,Sometimes,More than 1000,No,Yes,Don't know,Very easy,Yes,No,No,No,No,Maybe,No,No,Don't know_Not sure,Don't know_Don't know
+343,2,0,No,No,No,Never,More than 1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Don't know_Not sure,Don't know_Don't know
+344,2,0,No,No,No,Rarely,1-5,Yes,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,No,No,Don't know_No,No_No
+345,0,1,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Yes_Yes,No_No
+346,0,0,No,Yes,Yes,Sometimes,100-1000,No,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Don't know,No,Don't know_No,No_No
+347,3,0,No,Yes,Yes,Never,More than 1000,No,Yes,Don't know,Don't know,No,No,No,Yes,No,No,Don't know,No,Don't know_No,Yes_Yes
+348,0,0,No,No,No,Sometimes,More than 1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Don't know_No,Don't know_Don't know
+349,0,2,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,No,Yes_Yes,Don't know_Don't know
+350,1,0,No,No,No,Often,6-25,No,No,Don't know,Don't know,Maybe,No,Yes,Yes,Maybe,Maybe,Don't know,No,Don't know_No,No_No
+351,0,0,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Don't know,No,No,No,No,No,Yes,Yes,No,Yes_Yes,Yes_Yes
+352,1,0,No,No,No,Never,6-25,No,Yes,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,No_No,No_Don't know
+353,0,0,No,Yes,Yes,Often,More than 1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Yes_Not sure,Don't know_Yes
+354,0,1,No,Yes,No,Sometimes,6-25,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,No,No,Yes_Yes,Yes_No
+355,1,0,No,No,Yes,Sometimes,100-1000,No,No,Yes,Don't know,No,No,Some of them,No,No,No,No,No,No_Yes,No_Don't know
+356,2,0,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Don't know_Not sure,No_No
+357,2,0,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Don't know,Maybe,Maybe,No,No,No,No,Don't know,No,Yes_Yes,Don't know_Yes
+358,2,0,No,No,Yes,Sometimes,100-1000,Yes,Yes,Don't know,Somewhat easy,Yes,Yes,Some of them,Some of them,No,Maybe,Don't know,No,No_No,No_No
+359,1,0,Yes,No,No,Never,1-5,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,No_Yes,No_No
+360,2,1,No,No,No,Never,6-25,No,Yes,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,No,Don't know,No,No_No,No_No
+361,2,0,Yes,Yes,Yes,Rarely,26-100,Yes,Yes,Don't know,Somewhat difficult,No,No,Yes,Yes,No,Maybe,Yes,No,No_No,No_Don't know
+362,0,0,Yes,Yes,Yes,Rarely,100-1000,Yes,No,No,Don't know,Maybe,No,Some of them,Yes,No,Yes,No,No,No_No,No_Don't know
+363,2,0,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,Don't know,No,No,Some of them,Yes,No,Yes,Yes,No,Yes_Yes,Yes_Yes
+365,1,0,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Somewhat difficult,Maybe,Maybe,No,No,No,No,No,No,Don't know_Not sure,No_Don't know
+366,2,0,No,Yes,No,Never,More than 1000,No,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,Yes_No,Yes_Yes
+367,2,0,No,Yes,Yes,Often,100-1000,No,Yes,Yes,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,No_Yes,No_No
+368,0,0,No,Yes,Yes,Rarely,100-1000,No,Yes,Yes,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,Yes_No,No_Don't know
+369,0,0,No,No,Yes,Sometimes,6-25,No,No,No,Very easy,Yes,No,Some of them,No,No,Maybe,No,No,Don't know_Not sure,No_No
+370,0,1,No,No,No,Never,More than 1000,No,Yes,Yes,Somewhat easy,No,No,No,Some of them,No,No,Yes,No,Yes_No,Yes_Yes
+371,3,0,No,Yes,Yes,Often,More than 1000,No,Yes,Don't know,Somewhat difficult,Maybe,No,Yes,Some of them,No,Maybe,No,Yes,Yes_No,Yes_Yes
+372,3,0,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,Yes_Yes,Yes_Yes
+373,2,1,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,Yes_Yes,Yes_Yes
+374,0,1,No,Yes,Yes,Rarely,26-100,No,Yes,Don't know,Somewhat easy,Yes,No,Some of them,No,No,Yes,Don't know,No,Don't know_Not sure,Don't know_No
+375,3,0,No,No,Yes,Never,26-100,Yes,Yes,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,Yes_Yes,Don't know_Don't know
+376,0,1,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Don't know,Yes,Maybe,No,No,No,No,No,No,Yes_Yes,No_No
+377,0,1,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,No,Don't know_No,No_No
+378,2,1,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,Very difficult,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No,Yes_Yes,Yes_Yes
+379,0,1,No,Yes,Yes,Never,More than 1000,No,Yes,Yes,Don't know,Maybe,No,No,No,No,No,Don't know,No,Yes_Yes,No_Yes
+380,3,0,No,No,Yes,Never,100-1000,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,No,Yes_Not sure,No_Don't know
+381,0,0,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No,Yes_No,Yes_Yes
+382,1,0,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,Don't know,No,No,Yes,Yes,No,No,Don't know,No,Yes_No,No_No
+383,0,0,No,Yes,Yes,Often,26-100,Yes,Yes,Yes,Somewhat easy,No,No,Yes,Yes,No,Yes,No,No,No_No,No_No
+384,0,0,No,No,Yes,Sometimes,6-25,No,Yes,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,No,No,Don't know_No,No_No
+385,0,1,No,Yes,Yes,Rarely,More than 1000,Yes,Yes,Don't know,Don't know,Maybe,Maybe,No,Yes,No,No,Don't know,No,Yes_Yes,No_Don't know
+386,3,0,No,No,No,Never,100-1000,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Don't know_Not sure,No_No
+387,1,2,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,Very difficult,Yes,No,Some of them,No,No,Maybe,No,No,Yes_Yes,No_No
+388,0,1,No,No,Yes,Sometimes,6-25,No,Yes,Don't know,Somewhat difficult,Yes,No,Some of them,No,No,Maybe,Don't know,No,Don't know_Not sure,No_No
+389,2,1,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Don't know,Maybe,No,Some of them,No,No,Yes,Don't know,No,Yes_Yes,No_Yes
+391,3,1,No,Yes,Yes,Rarely,More than 1000,No,No,Don't know,Somewhat easy,Maybe,Maybe,No,No,No,No,Don't know,No,Yes_No,Don't know_Don't know
+392,1,0,No,No,No,Never,More than 1000,No,Yes,Don't know,Somewhat easy,Yes,No,Some of them,No,No,No,Don't know,No,Don't know_No,No_Don't know
+393,0,0,No,Yes,Yes,Often,26-100,Yes,Yes,Don't know,Very easy,No,No,Yes,Yes,No,No,Yes,No,Don't know_No,Don't know_Don't know
+394,0,1,No,Yes,No,Never,100-1000,No,No,No,Very difficult,Yes,Maybe,No,No,No,Maybe,No,Yes,No_No,No_No
+395,1,0,No,No,No,Never,More than 1000,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Yes_Not sure,No_Don't know
+396,3,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,Maybe,Maybe,No,No,No,No,No,No,Don't know_No,No_No
+397,2,0,No,No,No,Sometimes,6-25,No,Yes,Don't know,Very difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,No,Yes,No_No,No_No
+398,2,1,No,No,No,Never,100-1000,No,Yes,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,Don't know_Not sure,No_No
+399,1,0,No,No,Yes,Sometimes,100-1000,No,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Yes,No,Don't know_Not sure,Don't know_Don't know
+400,0,0,No,Yes,Yes,Often,6-25,No,Yes,Don't know,Somewhat difficult,Maybe,No,Some of them,Yes,No,No,No,No,Yes_Yes,No_No
+401,1,0,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,No,No,Yes_Yes,No_No
+402,0,0,No,No,No,Never,More than 1000,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,No,No,Don't know_No,No_Don't know
+403,2,0,No,Yes,Yes,Sometimes,100-1000,No,Yes,Don't know,Very difficult,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,Yes,Yes_Yes,No_No
+404,1,0,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Very easy,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Don't know_No,No_No
+405,0,0,No,Yes,No,Never,6-25,No,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,No,No,Yes_Yes,No_Yes
+406,2,0,No,Yes,Yes,Never,26-100,Yes,Yes,Don't know,Don't know,Yes,Maybe,Yes,Some of them,No,No,Yes,No,Yes_Yes,Yes_Yes
+407,2,0,No,No,No,Never,More than 1000,Yes,Yes,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Yes,No,Don't know_No,Don't know_Don't know
+408,0,0,Yes,No,No,Never,6-25,Yes,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,Maybe,No,Don't know,No,Don't know_No,No_No
+409,1,1,No,Yes,No,Never,100-1000,No,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,No_No,No_No
+410,2,0,No,Yes,Yes,Often,More than 1000,Yes,Yes,Don't know,Somewhat easy,Yes,No,No,No,No,No,No,No,Yes_Yes,No_No
+411,1,1,No,Yes,Yes,Rarely,More than 1000,No,No,Don't know,Very difficult,Yes,Maybe,No,No,No,Maybe,No,No,Don't know_Not sure,No_Don't know
+412,0,0,No,Yes,No,Never,More than 1000,No,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,Yes,Don't know_Not sure,Don't know_Don't know
+413,1,2,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,Yes,Yes,No,Don't know_No,No_No
+414,0,1,No,No,Yes,Sometimes,100-1000,Yes,Yes,Don't know,Somewhat difficult,No,No,Some of them,Some of them,No,No,Yes,No,Don't know_Not sure,Don't know_Don't know
+415,1,0,No,Yes,No,Often,6-25,No,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Don't know,No,Don't know_No,No_Don't know
+416,1,1,No,Yes,Yes,Sometimes,100-1000,No,Yes,Don't know,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,No,No,Don't know_Not sure,No_No
+417,0,0,No,No,No,Never,6-25,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,No,No,No_No,No_No
+418,2,0,No,No,No,Never,6-25,No,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,No,Maybe,Don't know,No,No_No,No_No
+419,3,0,No,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,No,No,Yes,No_Yes,No_Don't know
+420,1,0,No,Yes,Yes,Rarely,1-5,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,Yes_No,No_No
+421,0,0,No,No,No,Never,26-100,Yes,Yes,Don't know,Don't know,No,No,Some of them,No,No,Yes,Don't know,No,Don't know_No,Don't know_No
+422,1,0,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes_Yes,Yes_No
+423,2,0,No,Yes,Yes,Sometimes,6-25,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,No_No,No_Don't know
+424,1,1,No,No,Yes,Rarely,More than 1000,No,No,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,Yes_Yes,No_Don't know
+425,0,0,No,No,No,Sometimes,6-25,No,No,Yes,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,Don't know_Not sure,No_Yes
+426,0,0,No,Yes,Yes,Sometimes,100-1000,No,Yes,Don't know,Somewhat difficult,Yes,No,Some of them,Some of them,No,Maybe,No,Yes,No_Yes,No_No
+427,0,1,No,No,No,Never,More than 1000,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Yes_Not sure,Yes_Don't know
+428,0,0,No,No,No,Never,More than 1000,No,No,Don't know,Don't know,No,No,Yes,No,No,Yes,Don't know,No,Yes_No,No_No
+429,0,1,No,No,No,Never,More than 1000,No,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,Yes,Yes,Yes,No,Yes_Yes,Yes_Yes
+430,1,0,Yes,No,No,Never,100-1000,Yes,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,Don't know_No,No_No
+431,0,1,No,Yes,Yes,Rarely,6-25,No,Yes,Don't know,Very easy,Yes,No,No,Some of them,No,Yes,Yes,No,No_No,No_No
+432,2,0,Yes,No,Yes,Often,1-5,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,Some of them,Some of them,Yes,Yes,Don't know,No,No_No,No_No
+433,2,0,No,No,No,Sometimes,26-100,No,Yes,Don't know,Don't know,Maybe,No,Yes,Yes,No,Maybe,Don't know,No,Don't know_No,No_No
+434,0,1,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,Somewhat difficult,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Don't know_Not sure,No_No
+435,1,0,No,No,No,Never,6-25,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Don't know_No,No_Don't know
+436,0,0,No,No,No,Never,More than 1000,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,Yes,Don't know_Not sure,Don't know_Don't know
+437,0,0,No,No,No,Never,100-1000,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,Don't know_Not sure,Don't know_Don't know
+438,0,1,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Yes_Yes,No_Don't know
+439,1,0,No,Yes,Yes,Rarely,1-5,Yes,Yes,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Yes_Yes,Yes_Yes
+440,0,0,No,Yes,No,Sometimes,6-25,No,Yes,Don't know,Don't know,Maybe,Maybe,No,No,No,Maybe,No,No,No_No,No_No
+441,2,0,No,No,No,Rarely,More than 1000,Yes,Yes,Don't know,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No,Yes_No,Yes_Don't know
+442,3,0,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,Yes,Yes,Yes_Yes,Yes_Yes
+443,2,1,No,No,No,Never,100-1000,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Yes,No,Yes_No,Don't know_No
+444,0,0,No,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,Yes_Yes,No_No
+445,3,0,No,Yes,No,Often,More than 1000,No,Yes,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Maybe,No,Yes,Yes_No,No_Don't know
+446,2,0,No,Yes,No,Never,More than 1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,Yes_Not sure,Don't know_Don't know
+447,0,1,No,No,Yes,Sometimes,100-1000,No,Yes,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,No,No,Yes,Yes_Yes,No_No
+448,0,0,No,No,Yes,Rarely,26-100,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Yes_Yes,Yes_No
+449,3,0,No,Yes,Yes,Rarely,More than 1000,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Yes_Yes,Yes_Yes
+450,3,0,Yes,Yes,Yes,Often,6-25,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Yes_Yes,No_No
+451,3,2,No,Yes,No,Never,More than 1000,No,Yes,Yes,Don't know,Yes,Maybe,No,Some of them,No,Maybe,Yes,No,Yes_Yes,Yes_Don't know
+452,1,0,No,Yes,Yes,Often,More than 1000,No,Yes,Don't know,Very difficult,Yes,No,Some of them,No,No,No,No,Yes,Yes_Yes,Yes_No
+453,2,0,No,No,Yes,Sometimes,6-25,No,Yes,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,Don't know,No,Don't know_Not sure,No_No
+454,0,0,No,Yes,Yes,Sometimes,100-1000,No,Yes,Don't know,Don't know,Yes,No,No,No,No,Yes,Don't know,No,Don't know_Not sure,No_Don't know
+455,2,0,No,No,No,Sometimes,More than 1000,No,Yes,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Yes,Don't know,No,Don't know_No,No_No
+456,0,0,No,No,No,Rarely,6-25,No,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,No_Yes,No_No
+457,2,0,No,Yes,No,Never,100-1000,No,Yes,Yes,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,Yes_No,No_No
+458,2,0,No,No,No,Never,6-25,No,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,Yes,Yes,No,No_No,No_No
+459,3,0,No,No,No,Never,100-1000,No,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Yes_No,No_No
+460,1,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Don't know_No,Don't know_Don't know
+461,2,1,No,No,No,Never,100-1000,No,Yes,Don't know,Very easy,Maybe,No,Some of them,Yes,No,No,Yes,No,Yes_Not sure,Yes_Yes
+462,1,0,No,No,No,Sometimes,6-25,Yes,Yes,Don't know,Somewhat easy,Yes,Maybe,Some of them,No,No,No,Don't know,No,No_Yes,No_No
+463,0,1,No,Yes,No,Never,26-100,No,Yes,Don't know,Somewhat difficult,Maybe,Maybe,Some of them,No,No,Maybe,No,No,Don't know_Not sure,No_No
+464,0,0,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,Somewhat easy,Yes,No,Some of them,Yes,No,Maybe,Yes,No,Don't know_No,Yes_Don't know
+465,3,0,Yes,No,Yes,Sometimes,26-100,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No,No_No,No_No
+466,3,0,No,Yes,Yes,Rarely,More than 1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,No,No,Yes_Yes,No_No
+467,1,0,No,No,Yes,Sometimes,More than 1000,No,Yes,No,Very difficult,Yes,Maybe,No,Some of them,No,Maybe,No,No,No_No,No_No
+468,0,0,No,No,No,Never,6-25,No,Yes,Don't know,Don't know,Maybe,No,Yes,Yes,Maybe,Maybe,No,No,No_Yes,No_No
+469,3,1,No,No,Yes,Rarely,100-1000,Yes,Yes,Yes,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No,Yes_Yes,No_No
+470,1,0,No,No,Yes,Sometimes,100-1000,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Yes_Yes,Yes_Yes
+471,3,0,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,Yes,Yes,No,Yes_Yes,Yes_Yes
+472,1,0,No,No,No,Sometimes,6-25,No,Yes,Don't know,Very difficult,Yes,No,No,No,No,Maybe,No,No,Don't know_No,No_No
+473,3,1,No,No,Yes,Sometimes,More than 1000,No,Yes,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Maybe,No,Yes,Yes_Yes,No_Yes
+474,2,0,No,No,No,Sometimes,6-25,Yes,Yes,Don't know,Very difficult,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,Don't know_No,No_No
+475,3,0,No,No,Yes,Sometimes,More than 1000,No,Yes,Don't know,Don't know,Maybe,Maybe,No,No,No,Maybe,Don't know,No,Yes_Not sure,Yes_Yes
+476,0,0,No,Yes,Yes,Sometimes,6-25,No,Yes,Don't know,Somewhat difficult,Yes,Maybe,Some of them,No,No,No,No,Yes,No_Not sure,No_No
+477,0,0,Yes,Yes,Yes,Often,26-100,Yes,Yes,Don't know,Don't know,No,Maybe,Yes,Yes,Maybe,Yes,Don't know,No,Don't know_No,Don't know_Don't know
+478,0,0,No,No,No,Never,100-1000,Yes,No,Don't know,Very easy,Yes,No,No,No,No,Maybe,Don't know,No,Don't know_No,No_Don't know
+479,1,1,No,No,No,Never,100-1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,Don't know_Not sure,No_No
+480,0,0,No,No,No,Never,26-100,No,No,Don't know,Don't know,No,No,Yes,Yes,Maybe,Yes,Yes,No,Don't know_Not sure,Don't know_Don't know
+481,3,0,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,Yes,Don't know,No,Yes_Yes,Yes_Yes
+482,0,1,No,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,Don't know_Not sure,Don't know_Don't know
+483,1,0,No,No,Yes,Rarely,6-25,No,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Yes_Yes,No_No
+484,3,0,No,No,No,Never,6-25,No,Yes,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,Don't know_No,No_Don't know
+485,3,0,No,No,Yes,Sometimes,26-100,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Yes,No,Yes,No_Yes,Don't know_No
+486,1,1,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Don't know,Yes,Maybe,Some of them,No,No,Maybe,Don't know,No,Don't know_Not sure,No_No
+487,1,0,Yes,Yes,Yes,Often,1-5,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,No_Yes,No_No
+488,0,0,No,No,No,Sometimes,6-25,No,Yes,Yes,Very easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,No_No,No_No
+489,2,0,No,No,No,Never,6-25,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,No,No_No,No_No
+490,1,0,No,No,No,Never,More than 1000,No,Yes,Yes,Don't know,No,No,No,Some of them,No,No,Yes,No,Yes_Not sure,Don't know_Don't know
+491,1,0,No,No,No,Rarely,100-1000,No,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,Don't know_Not sure,No_No
+492,0,0,No,No,No,Never,26-100,No,Yes,Don't know,Somewhat difficult,Yes,No,Some of them,No,No,Maybe,No,Yes,No_No,No_No
+493,0,1,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,Yes,No_No,Don't know_Don't know
+494,0,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Don't know_Not sure,Don't know_Don't know
+495,0,1,No,Yes,Yes,Often,More than 1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,Yes,Yes_Not sure,Don't know_No
+496,2,0,No,No,Yes,Sometimes,More than 1000,No,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,No,No,No,No,Yes,Yes_Not sure,No_No
+497,0,1,Yes,Yes,Yes,Often,1-5,Yes,Yes,Yes,Somewhat difficult,Yes,No,Some of them,No,No,Maybe,No,Yes,Don't know_Not sure,No_No
+498,3,0,No,No,Yes,Sometimes,More than 1000,Yes,No,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,No,No,No_Yes,Yes_Yes
+499,2,0,No,No,No,Rarely,6-25,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,Don't know_Not sure,Don't know_Don't know
+500,3,1,No,No,Yes,Never,26-100,No,Yes,Yes,Don't know,Maybe,Maybe,No,No,No,No,No,No,Yes_Yes,No_No
+501,3,0,Yes,Yes,No,Never,More than 1000,No,Yes,No,Don't know,Yes,Maybe,Some of them,No,No,Maybe,No,Yes,No_No,No_No
+502,2,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,No,No,No,Some of them,No,Maybe,Don't know,No,No_Not sure,No_Don't know
+503,0,0,No,No,No,Never,More than 1000,No,No,Don't know,Don't know,No,No,Yes,Yes,No,Yes,Don't know,No,Don't know_Not sure,Don't know_Yes
+504,2,1,No,No,Yes,Sometimes,100-1000,No,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,No,No,No_Yes,No_No
+505,3,0,No,No,Yes,Sometimes,More than 1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Yes,No,Yes_Yes,Yes_Yes
+506,3,0,No,No,No,Never,100-1000,No,No,Don't know,Very difficult,Maybe,No,Yes,Yes,Maybe,Yes,No,No,Yes_No,Yes_No
+507,2,0,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Yes_No,No_No
+508,3,0,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Very easy,No,No,Some of them,Yes,No,Yes,Yes,No,Yes_Yes,Yes_Yes
+509,0,0,No,No,No,Never,More than 1000,No,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No,Yes_Not sure,Yes_Don't know
+510,2,1,No,No,Yes,Sometimes,100-1000,Yes,Yes,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,Yes_Yes,Yes_Yes
+511,0,1,No,No,No,Sometimes,6-25,No,Yes,No,Somewhat easy,Maybe,No,Some of them,No,No,No,Yes,No,No_No,No_No
+512,1,0,No,No,No,Never,More than 1000,No,Yes,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,Don't know_Not sure,No_Don't know
+513,3,0,No,No,No,Never,26-100,No,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,Yes_Yes,Yes_Yes
+514,3,0,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Don't know,Yes,No,No,No,No,No,No,No,Yes_Not sure,Yes_Yes
+515,3,0,No,No,No,Never,6-25,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Don't know_No,No_Don't know
+516,3,0,No,No,Yes,Rarely,100-1000,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No,Yes_Not sure,Yes_Yes
+517,3,1,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Very easy,Maybe,No,Yes,Yes,No,No,No,Yes,Yes_Yes,Yes_Yes
+518,2,0,No,No,Yes,Sometimes,6-25,No,Yes,Yes,Very easy,Yes,Yes,Some of them,Some of them,No,Maybe,No,No,Yes_Yes,No_No
+519,2,0,No,Yes,Yes,Often,26-100,No,Yes,Yes,Very easy,Maybe,Maybe,Yes,Yes,No,No,No,No,No_Yes,No_No
+520,3,0,No,No,No,Never,More than 1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,Maybe,Yes,No,Yes_Yes,Don't know_Yes
+521,0,1,No,No,No,Never,More than 1000,No,No,Yes,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Don't know_Not sure,Don't know_Don't know
+522,2,0,No,No,No,Never,More than 1000,No,No,Don't know,Don't know,Maybe,Maybe,No,No,No,No,No,No,No_No,No_No
+523,0,0,No,Yes,No,Rarely,26-100,Yes,Yes,Don't know,Don't know,Maybe,Yes,No,No,No,No,Don't know,Yes,Don't know_Not sure,Don't know_Don't know
+524,2,0,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Yes,Somewhat difficult,Maybe,No,Some of them,Yes,No,Yes,Yes,No,Don't know_Yes,Don't know_No
+525,3,1,No,Yes,Yes,Rarely,100-1000,Yes,Yes,Yes,Very easy,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No,Yes_Yes,Yes_Yes
+526,0,0,Yes,No,No,Sometimes,1-5,No,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,Yes_Yes,Don't know_Don't know
+527,3,0,No,No,Yes,Sometimes,26-100,Yes,Yes,No,Somewhat difficult,Yes,Yes,No,No,No,No,Don't know,Yes,No_Yes,Yes_No
+528,1,0,No,No,Yes,Sometimes,6-25,No,Yes,Yes,Very easy,No,No,No,Some of them,No,No,Yes,No,Yes_Yes,No_Yes
+529,1,1,Yes,Yes,Yes,Sometimes,100-1000,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,No,Yes,No,Don't know_Not sure,Don't know_Don't know
+530,0,0,No,No,No,Never,6-25,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,Yes,Don't know,No,No_No,No_No
+531,1,0,No,No,Yes,Rarely,100-1000,No,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,Yes,Yes,No,No,Yes_Yes,Yes_Yes
+532,0,1,Yes,Yes,No,Sometimes,1-5,Yes,Yes,No,Very difficult,Yes,Maybe,No,No,No,Maybe,No,No,No_No,No_No
+533,0,0,No,No,No,Rarely,6-25,No,Yes,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Don't know_No,No_Don't know
+534,0,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Don't know_Not sure,Don't know_No
+535,0,1,No,Yes,Yes,Sometimes,6-25,No,Yes,No,Somewhat difficult,Yes,No,Some of them,Some of them,No,No,No,No,No_Yes,No_No
+536,3,0,No,Yes,Yes,Often,26-100,Yes,Yes,Don't know,Somewhat easy,Yes,No,Some of them,Yes,No,No,No,No,Yes_Yes,Yes_Yes
+537,0,0,No,Yes,Yes,Never,More than 1000,No,Yes,Don't know,Don't know,Maybe,No,No,No,No,No,No,No,Don't know_No,No_Don't know
+538,0,0,No,No,No,Never,6-25,No,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Don't know_No,No_No
+539,0,1,No,Yes,Yes,Sometimes,100-1000,No,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,No,No,Yes,Yes_Yes,No_Don't know
+540,0,1,No,Yes,Yes,Often,100-1000,No,No,Don't know,Somewhat difficult,Maybe,No,No,No,No,Maybe,No,No,Don't know_No,No_No
+541,1,1,No,Yes,Yes,Rarely,100-1000,No,Yes,Yes,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,Yes_Yes,No_No
+542,2,0,No,No,No,Never,6-25,No,Yes,Don't know,Don't know,No,No,Yes,Yes,Yes,Yes,Yes,No,Don't know_No,No_No
+543,1,1,No,Yes,Yes,Often,100-1000,Yes,Yes,Don't know,Don't know,Yes,Yes,Some of them,Some of them,No,No,No,Yes,Yes_No,No_Don't know
+544,1,2,No,Yes,Yes,Rarely,100-1000,No,Yes,Yes,Somewhat difficult,Yes,Yes,Some of them,Some of them,Yes,No,No,Yes,No_Not sure,No_No
+545,0,1,No,No,No,Never,6-25,No,Yes,Don't know,Very easy,Maybe,No,No,Some of them,No,Yes,Yes,No,Don't know_Not sure,No_No
+546,1,0,No,No,No,Never,26-100,Yes,Yes,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Don't know_Not sure,Don't know_Don't know
+547,2,0,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Somewhat difficult,Yes,No,Some of them,Yes,No,Yes,No,No,Yes_No,No_Yes
+548,0,0,No,Yes,No,Never,More than 1000,No,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No,Yes_Yes,Yes_Yes
+549,1,0,No,No,No,Often,26-100,No,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,Maybe,Yes,Don't know,No,No_No,Don't know_No
+550,0,1,No,Yes,No,Never,100-1000,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,Don't know_Not sure,No_No
+551,2,0,No,No,Yes,Sometimes,6-25,No,Yes,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,No_No,No_No
+552,1,1,No,No,Yes,Sometimes,1-5,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,No,No_No,No_No
+553,0,2,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,No,Yes,No,No_Yes,Yes_No
+554,0,1,No,Yes,Yes,Rarely,100-1000,Yes,Yes,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Yes,Don't know,No,No_No,No_No
+555,2,1,No,No,Yes,Often,More than 1000,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Don't know_Not sure,Don't know_Don't know
+556,2,0,No,No,No,Sometimes,More than 1000,No,Yes,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Yes_Yes,Yes_Yes
+557,2,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No,Don't know_No,Don't know_Don't know
+558,0,0,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,No_Not sure,No_Don't know
+559,0,0,No,No,No,Never,More than 1000,No,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No,Don't know_Not sure,Don't know_Don't know
+560,3,0,Yes,No,No,Never,6-25,Yes,No,Don't know,Very easy,Maybe,No,Some of them,No,No,No,Yes,No,No_No,No_No
+561,0,0,No,Yes,Yes,Sometimes,100-1000,Yes,Yes,Don't know,Don't know,No,No,Some of them,No,No,No,Yes,No,Don't know_No,No_Don't know
+562,2,0,No,No,No,Never,More than 1000,No,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,Don't know_Not sure,Don't know_Don't know
+563,2,0,No,No,Yes,Rarely,26-100,No,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,Don't know_Not sure,No_Don't know
+564,3,0,No,No,No,Never,26-100,No,Yes,Don't know,Somewhat difficult,No,No,Some of them,Some of them,No,No,No,No,No_No,No_No
+565,1,0,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Somewhat difficult,Maybe,No,Some of them,No,No,Maybe,No,No,Yes_Yes,No_No
+566,3,0,No,No,Yes,Sometimes,100-1000,No,Yes,Yes,Don't know,Yes,Maybe,Yes,Yes,No,Maybe,Don't know,No,Yes_Not sure,Yes_Don't know
+567,2,0,No,No,Yes,Sometimes,More than 1000,No,Yes,Don't know,Somewhat easy,No,No,Yes,Some of them,Maybe,Yes,Don't know,No,Yes_No,No_Yes
+568,1,0,No,Yes,No,Sometimes,More than 1000,No,Yes,Don't know,Somewhat easy,Maybe,No,No,Some of them,No,Yes,No,No,Yes_Not sure,Don't know_Don't know
+569,3,0,No,Yes,Yes,Sometimes,100-1000,No,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,No,Don't know_No,No_No
+570,0,0,No,Yes,Yes,Rarely,1-5,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,No,No_Yes,No_No
+571,3,0,No,No,Yes,Often,More than 1000,No,Yes,Yes,Somewhat easy,Maybe,Maybe,Yes,Yes,Maybe,Maybe,Don't know,No,Yes_Yes,Yes_Yes
+572,0,1,No,No,No,Sometimes,100-1000,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Yes,No,Don't know_Not sure,Don't know_Yes
+573,0,1,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Somewhat difficult,No,No,Yes,Yes,No,No,No,Yes,Yes_Yes,No_No
+574,3,0,No,No,No,Never,26-100,Yes,Yes,Don't know,Don't know,No,No,No,No,No,Maybe,No,No,No_Yes,No_No
+575,3,0,No,Yes,No,Never,26-100,No,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,No,No,Yes,No,Don't know_No,No_Don't know
+576,0,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,Don't know_No,Don't know_No
+577,2,0,No,Yes,No,Sometimes,6-25,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Don't know_Not sure,No_No
+578,1,0,Yes,No,No,Never,26-100,Yes,Yes,Yes,Very difficult,Yes,No,Some of them,No,No,Yes,No,No,Yes_Yes,No_No
+579,2,0,No,Yes,Yes,Sometimes,26-100,Yes,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,Yes_No,No_No
+580,3,0,No,Yes,Yes,Often,More than 1000,No,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Yes,Yes_No,No_No
+581,3,0,No,Yes,No,Never,100-1000,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Don't know_No,No_Don't know
+582,1,0,No,No,Yes,Never,More than 1000,No,No,Yes,Somewhat difficult,Maybe,No,Some of them,No,No,Maybe,Don't know,Yes,Yes_Not sure,Yes_Yes
+583,2,0,No,No,No,Never,6-25,No,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,No_Yes,No_No
+584,0,0,No,No,No,Sometimes,1-5,Yes,Yes,Yes,Don't know,Yes,No,Some of them,Yes,No,No,No,No,No_No,No_No
+585,3,1,No,No,No,Never,26-100,No,No,Don't know,Somewhat easy,Maybe,Maybe,Yes,Yes,Maybe,Maybe,Don't know,No,Don't know_Not sure,No_No
+586,0,0,No,No,Yes,Often,100-1000,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,No,Yes,No_No,No_No
+587,1,1,No,No,No,Never,26-100,No,Yes,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,Yes_Yes,Yes_No
+588,1,0,No,Yes,Yes,Sometimes,6-25,No,Yes,Don't know,Somewhat easy,Maybe,No,Yes,Yes,No,Maybe,Don't know,No,No_No,No_No
+589,3,0,No,No,Yes,Sometimes,6-25,No,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,No,Maybe,Don't know,No,No_Yes,No_No
+590,2,0,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,Yes,Yes_Yes,No_No
+591,1,0,No,Yes,Yes,Sometimes,26-100,No,Yes,No,Somewhat difficult,Yes,No,Some of them,Some of them,No,Maybe,Don't know,No,Don't know_No,No_No
+592,0,0,No,Yes,Yes,Sometimes,1-5,No,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No,No_No,No_No
+593,3,0,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,No,No,Yes_Not sure,Yes_Yes
+594,1,0,No,Yes,No,Never,100-1000,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No,Yes_Yes,Yes_Yes
+595,0,0,No,No,No,Rarely,100-1000,No,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Yes,No,Yes_Not sure,Don't know_Don't know
+596,0,1,No,Yes,Yes,Sometimes,100-1000,No,Yes,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,No,No,Yes,Yes_Not sure,No_No
+597,1,0,No,No,No,Never,26-100,Yes,Yes,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,Don't know_No,No_Don't know
+598,3,0,No,No,No,Never,100-1000,Yes,Yes,Don't know,Don't know,No,No,Yes,Yes,No,No,Yes,No,Don't know_Not sure,Don't know_Don't know
+599,1,0,No,Yes,Yes,Rarely,100-1000,No,Yes,Don't know,Somewhat difficult,Yes,Yes,Some of them,No,No,No,No,Yes,No_No,No_Don't know
+600,1,0,No,Yes,No,Often,100-1000,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Yes_Yes,Yes_Yes
+601,2,0,Yes,Yes,No,Never,6-25,Yes,Yes,Don't know,Very easy,No,No,Yes,Yes,No,Maybe,Yes,No,No_No,Yes_Yes
+602,2,0,No,Yes,Yes,Sometimes,100-1000,No,No,Yes,Somewhat difficult,Yes,Yes,No,No,No,No,No,No,Yes_Not sure,No_No
+603,1,2,Yes,Yes,Yes,Often,1-5,Yes,No,Yes,Somewhat difficult,No,No,Yes,Yes,No,No,Yes,No,No_Yes,No_Yes
+604,0,0,No,No,No,Never,More than 1000,No,Yes,Yes,Don't know,Maybe,Maybe,No,No,No,Maybe,No,No,Yes_Not sure,Don't know_Don't know
+605,2,0,No,No,No,Sometimes,100-1000,No,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,No,No_Yes,No_No
+606,3,0,No,No,No,Sometimes,1-5,Yes,Yes,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,Don't know,No,Don't know_No,No_Don't know
+607,0,0,No,No,No,Never,26-100,No,No,Don't know,Don't know,Maybe,Yes,Some of them,No,No,Maybe,No,No,Don't know_Not sure,No_No
+608,0,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Yes,No,Don't know_No,No_No
+609,0,0,No,No,No,Never,1-5,Yes,Yes,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,No_No,No_No
+610,2,0,No,No,Yes,Sometimes,6-25,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,No_Yes,No_No
+611,3,0,Yes,No,No,Rarely,6-25,Yes,No,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,No_Yes,No_No
+612,3,0,No,No,No,Often,More than 1000,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,No,No,Don't know_No,No_No
+613,1,0,No,No,No,Sometimes,26-100,No,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Yes,No,Yes,Don't know_Not sure,No_No
+614,1,0,No,No,No,Rarely,More than 1000,No,Yes,Don't know,Very easy,Yes,Maybe,Some of them,No,No,No,Don't know,No,Yes_No,No_No
+615,1,0,Yes,No,Yes,Often,6-25,Yes,Yes,Don't know,Somewhat difficult,No,No,Yes,Yes,No,Maybe,Yes,No,No_Not sure,No_Yes
+616,2,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,Yes_No,Yes_Don't know
+617,2,0,No,Yes,Yes,Rarely,100-1000,Yes,No,Yes,Very difficult,Yes,No,Some of them,No,No,Maybe,No,No,Yes_Yes,No_No
+618,3,0,No,Yes,No,Often,26-100,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,No_Not sure,No_Don't know
+619,0,0,No,Yes,Yes,Sometimes,100-1000,No,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,Yes_Yes,No_No
+620,0,0,No,Yes,No,Sometimes,100-1000,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Don't know,No,Don't know_No,No_No
+621,0,0,Yes,No,No,Never,1-5,No,Yes,Don't know,Don't know,No,Maybe,Some of them,Yes,Maybe,Yes,No,Yes,Don't know_Not sure,No_No
+622,1,1,No,No,Yes,Often,26-100,Yes,Yes,Don't know,Very easy,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No,Yes_Yes,No_No
+623,0,1,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Somewhat easy,Yes,Maybe,No,No,No,No,Don't know,No,Yes_Yes,Yes_Yes
+624,1,1,No,Yes,Yes,Sometimes,100-1000,No,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Don't know,No,Don't know_No,No_No
+625,1,1,No,Yes,Yes,Rarely,100-1000,No,Yes,Don't know,Somewhat difficult,Maybe,No,No,Some of them,No,No,No,No,Yes_Yes,Yes_Yes
+626,3,2,No,Yes,Yes,Sometimes,100-1000,No,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,No,No,Yes_Yes,No_No
+627,2,0,Yes,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,No,No,No,No_Yes,No_No
+628,2,0,No,No,No,Sometimes,26-100,Yes,Yes,Yes,Very difficult,Yes,Maybe,Some of them,No,No,Maybe,No,Yes,No_Yes,No_No
+629,1,0,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,Don't know,Yes,No,Some of them,Some of them,No,No,Don't know,Yes,Yes_Not sure,No_Don't know
+630,0,1,No,No,Yes,Sometimes,100-1000,No,Yes,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,No_No,No_No
+631,3,0,No,Yes,Yes,Rarely,6-25,No,Yes,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,No,Don't know,No,Yes_Yes,No_No
+632,1,0,No,No,No,Sometimes,6-25,Yes,Yes,No,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,No_No,No_No
+633,2,1,No,No,Yes,Sometimes,100-1000,Yes,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,Yes_Yes,No_Don't know
+634,2,0,No,No,Yes,Rarely,100-1000,No,No,Don't know,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Don't know_No,Yes_Don't know
+635,1,0,No,No,No,Never,26-100,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Some of them,Yes,Yes,Don't know,No,No_No,No_No
+636,2,0,Yes,Yes,Yes,Often,6-25,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,Yes,No_No,No_No
+637,1,0,No,No,Yes,Often,26-100,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No,No_No,No_No
+638,2,0,Yes,No,No,Never,1-5,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Yes_Not sure,No_No
+639,3,0,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,Somewhat difficult,Yes,Yes,No,No,No,No,No,Yes,No_Yes,Yes_No
+640,2,0,No,No,No,Never,26-100,No,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Yes_Yes,No_No
+641,2,0,No,No,No,Never,26-100,No,Yes,Don't know,Very easy,Maybe,No,Some of them,Some of them,No,No,Don't know,No,No_No,No_No
+642,1,1,No,Yes,Yes,Sometimes,More than 1000,No,No,No,Somewhat difficult,Yes,No,Some of them,Some of them,No,No,No,Yes,Yes_Yes,Yes_Yes
+643,3,0,No,No,No,Never,26-100,No,Yes,Yes,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,Don't know,Yes,Yes_Yes,No_Yes
+644,1,1,No,Yes,Yes,Rarely,100-1000,No,No,No,Don't know,Maybe,No,Some of them,No,No,No,Don't know,Yes,Yes_No,No_No
+645,3,0,Yes,No,No,Never,6-25,No,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,No_No,No_No
+646,0,0,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,No,No_No,No_No
+647,1,0,No,No,No,Sometimes,26-100,No,Yes,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,No_No,No_No
+648,0,1,No,Yes,No,Sometimes,100-1000,No,No,Don't know,Somewhat easy,No,No,Yes,Yes,No,No,Don't know,No,No_Yes,Yes_Yes
+649,0,1,No,No,No,Often,6-25,No,Yes,Don't know,Don't know,No,No,No,Some of them,No,Yes,Don't know,No,No_No,No_No
+650,3,0,No,No,No,Rarely,More than 1000,Yes,No,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,No,Don't know_No,Yes_Yes
+651,1,0,No,Yes,Yes,Never,100-1000,No,Yes,Don't know,Don't know,Maybe,Maybe,No,No,No,No,No,No,Don't know_Not sure,Don't know_Don't know
+652,3,0,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,Very easy,No,No,Some of them,Yes,Yes,Yes,Don't know,Yes,Don't know_Not sure,No_No
+653,2,1,No,Yes,No,Never,100-1000,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,Yes,Don't know_No,Yes_Yes
+654,2,0,No,No,Yes,Never,100-1000,No,No,Don't know,Very easy,Maybe,No,No,No,No,No,Yes,No,Yes_Not sure,Yes_Yes
+655,0,0,No,No,No,Never,6-25,No,Yes,Don't know,Don't know,Maybe,No,Yes,Yes,No,Yes,Don't know,No,No_No,No_No
+656,1,0,No,No,No,Rarely,1-5,No,Yes,No,Somewhat difficult,No,Maybe,Some of them,No,No,No,Yes,No,No_No,No_No
+657,2,0,Yes,No,No,Never,1-5,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,No_No,No_No
+658,1,0,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Don't know,Maybe,No,Some of them,Yes,No,Yes,Yes,No,Yes_Yes,No_Don't know
+659,1,0,No,No,No,Never,6-25,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Don't know_No,No_Don't know
+660,0,1,No,No,No,Rarely,More than 1000,No,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,Yes_Yes,Yes_Yes
+661,0,0,No,No,No,Never,1-5,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Don't know_No,No_Don't know
+662,2,0,No,No,No,Never,More than 1000,No,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Don't know_Not sure,Don't know_Don't know
+663,0,0,Yes,No,No,Never,1-5,Yes,Yes,Don't know,Somewhat difficult,Maybe,No,Some of them,Yes,Maybe,Maybe,Yes,No,No_No,No_No
+664,1,0,No,No,No,Sometimes,More than 1000,No,No,Yes,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,Don't know_No,No_No
+665,1,0,No,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,Very difficult,Maybe,Maybe,Some of them,No,No,No,No,No,No_No,Don't know_No
+666,0,0,Yes,No,No,Never,1-5,Yes,Yes,Don't know,Very easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Yes,Yes,Don't know_No,Don't know_Don't know
+667,0,0,No,No,No,Never,More than 1000,No,Yes,Don't know,Don't know,No,No,No,No,No,No,Don't know,No,Don't know_Not sure,Don't know_Don't know
+668,0,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,Maybe,Maybe,No,No,No,No,Don't know,No,No_No,No_No
+669,3,0,No,No,No,Never,100-1000,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Don't know_No,No_No
+670,0,0,No,No,No,Never,26-100,No,Yes,Don't know,Somewhat difficult,No,No,Some of them,No,No,Maybe,Don't know,No,No_Not sure,No_Don't know
+671,0,0,No,Yes,No,Sometimes,6-25,No,Yes,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,Don't know_Not sure,No_Don't know
+672,0,0,No,No,No,Never,100-1000,Yes,Yes,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Yes,No,Yes_Not sure,Don't know_Yes
+673,0,1,No,Yes,No,Never,100-1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Yes,No,Don't know_No,Don't know_Don't know
+674,2,0,No,Yes,No,Sometimes,26-100,No,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,No,Don't know_No,No_No
+675,1,0,No,No,Yes,Sometimes,26-100,Yes,No,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,Don't know_Not sure,No_Don't know
+676,0,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,Don't know,No,No_No,No_No
+677,1,1,No,Yes,Yes,Rarely,6-25,No,Yes,Don't know,Don't know,Yes,No,No,No,No,No,Don't know,No,Don't know_No,No_No
+678,1,0,Yes,No,No,Never,1-5,No,Yes,Yes,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,No_Yes,No_No
+679,3,0,No,No,Yes,Often,1-5,Yes,Yes,Don't know,Very easy,No,No,Yes,Yes,No,Maybe,Yes,No,Yes_Not sure,No_Yes
+680,2,0,No,No,Yes,Rarely,26-100,Yes,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,No_No,No_No
+681,3,0,No,No,Yes,Sometimes,More than 1000,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Yes_Yes,Yes_Yes
+682,0,2,No,Yes,Yes,Often,26-100,No,No,Don't know,Somewhat difficult,Maybe,Maybe,No,No,No,Maybe,No,No,Don't know_Not sure,No_No
+683,1,1,No,No,Yes,Rarely,More than 1000,Yes,No,Yes,Somewhat easy,No,No,No,Yes,No,Maybe,Don't know,No,Yes_Yes,Yes_Don't know
+684,0,1,No,No,No,Never,6-25,No,Yes,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,Don't know,No,No_No,No_No
+685,0,1,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,Don't know_Not sure,No_Don't know
+686,2,1,No,Yes,Yes,Rarely,More than 1000,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,Yes_Yes,Yes_Yes
+687,3,0,No,Yes,Yes,Sometimes,100-1000,No,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,No,Yes,No,Yes_Not sure,Yes_Yes
+688,1,0,No,No,No,Never,26-100,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Don't know_No,No_No
+689,0,1,No,No,Yes,Sometimes,6-25,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Don't know_Not sure,Yes_Don't know
+690,0,0,No,No,Yes,Sometimes,6-25,No,Yes,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Yes_No,No_No
+691,1,0,No,No,No,Never,1-5,Yes,Yes,Yes,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No,No_No,No_No
+692,1,0,No,No,No,Never,26-100,No,Yes,Yes,Somewhat easy,No,No,Some of them,No,Maybe,Maybe,Don't know,No,Don't know_No,No_Don't know
+693,1,1,No,No,No,Never,More than 1000,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,Yes_Not sure,Don't know_Don't know
+694,2,0,No,No,No,Never,6-25,No,Yes,Don't know,Don't know,Yes,No,No,No,No,Yes,No,No,No_No,No_No
+695,2,0,No,No,Yes,Sometimes,26-100,No,No,Yes,Very easy,No,No,No,Yes,No,No,Yes,No,Yes_Yes,No_No
+696,3,0,No,No,No,Never,100-1000,No,Yes,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,No,No_No,No_No
+697,3,1,No,No,No,Never,More than 1000,Yes,No,Don't know,Very difficult,Yes,Maybe,No,No,No,Maybe,No,No,No_Yes,No_No
+698,1,0,No,No,No,Never,100-1000,No,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Yes,No,Don't know_No,No_Don't know
+699,1,0,No,No,No,Never,6-25,No,Yes,Don't know,Somewhat difficult,Maybe,Maybe,Some of them,No,No,No,Don't know,No,No_No,No_Don't know
+700,1,0,No,No,No,Never,100-1000,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,Yes_No,No_Don't know
+701,2,0,Yes,Yes,Yes,Rarely,1-5,Yes,Yes,No,Very difficult,No,No,Yes,Yes,No,No,Yes,Yes,No_Yes,Yes_Yes
+702,3,0,No,Yes,Yes,Sometimes,100-1000,No,Yes,Yes,Don't know,Maybe,No,Yes,Yes,No,No,Don't know,No,Yes_Yes,Don't know_Don't know
+703,0,0,No,No,Yes,Often,26-100,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Yes_Yes,Yes_No
+704,3,0,No,Yes,Yes,Sometimes,26-100,No,No,Don't know,Somewhat easy,Yes,No,No,No,No,No,No,No,Yes_Not sure,No_Yes
+705,2,0,No,No,Yes,Rarely,100-1000,No,Yes,Don't know,Don't know,Maybe,No,Yes,Yes,No,Maybe,No,Yes,Don't know_No,No_No
+706,0,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,No,No,Don't know_Not sure,No_No
+707,2,0,Yes,No,Yes,Sometimes,1-5,Yes,Yes,Don't know,Very easy,No,No,Yes,Yes,Yes,Yes,Don't know,No,Don't know_Not sure,Don't know_Don't know
+708,3,1,No,No,No,Never,26-100,Yes,Yes,Don't know,Don't know,Yes,No,Some of them,No,No,No,Don't know,No,Don't know_Not sure,No_Don't know
+709,1,0,No,No,Yes,Often,26-100,No,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Yes_Yes,No_No
+710,2,0,No,No,No,Never,6-25,No,Yes,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,Maybe,Don't know,No,No_No,No_No
+711,0,0,No,No,No,Never,6-25,No,Yes,Don't know,Don't know,No,No,Yes,Yes,No,No,Yes,No,Don't know_Not sure,Don't know_Don't know
+712,1,0,No,Yes,No,Never,100-1000,No,Yes,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Don't know,No,Don't know_No,No_Don't know
+713,1,0,No,No,No,Never,6-25,No,Yes,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,No,No,Yes_Yes,No_Yes
+714,2,0,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,Very difficult,Yes,Maybe,Some of them,No,No,No,No,No,Yes_Yes,Don't know_Don't know
+716,0,0,No,No,No,Never,100-1000,No,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Yes,Yes,Yes,Yes,No,Yes_Yes,Don't know_Yes
+717,3,0,Yes,No,No,Never,6-25,Yes,Yes,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Yes_Yes,Yes_No
+718,1,0,No,Yes,No,Never,6-25,No,Yes,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,No_No,No_No
+719,0,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,No,No,Yes,Yes,No,No,Don't know,No,Yes_Not sure,No_Don't know
+720,2,0,No,No,No,Never,6-25,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,Don't know_No,No_No
+721,1,0,No,Yes,Yes,Sometimes,More than 1000,No,No,No,Very difficult,Yes,No,Some of them,No,No,Yes,No,Yes,Don't know_No,No_No
+722,1,0,No,No,No,Never,1-5,Yes,Yes,Don't know,Somewhat difficult,Maybe,Maybe,Yes,Yes,No,Maybe,Don't know,No,No_Yes,No_No
+723,0,0,No,Yes,Yes,Never,6-25,Yes,Yes,Don't know,Don't know,Yes,No,Some of them,Yes,No,No,No,No,Don't know_No,Yes_Don't know
+724,2,0,No,Yes,Yes,Sometimes,1-5,No,No,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,No_Yes,No_No
+725,1,0,No,No,No,Never,100-1000,Yes,Yes,No,Don't know,No,No,Some of them,Some of them,No,Maybe,No,No,No_No,No_No
+726,0,0,No,No,No,Rarely,6-25,Yes,Yes,Don't know,Very easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,No,Don't know_No,No_No
+727,1,0,No,Yes,Yes,Sometimes,26-100,No,Yes,No,Very difficult,Yes,Yes,No,No,No,No,No,No,Don't know_No,No_No
+728,1,0,No,No,No,Never,More than 1000,No,No,Don't know,Don't know,No,No,Yes,Yes,No,No,No,No,Don't know_Not sure,Don't know_Don't know
+729,3,0,Yes,No,Yes,Sometimes,1-5,Yes,Yes,Yes,Very difficult,Yes,No,Yes,No,No,Maybe,No,Yes,No_No,No_No
+730,3,0,No,No,Yes,Often,6-25,No,Yes,Don't know,Don't know,Yes,No,Yes,Yes,Maybe,Yes,No,No,No_No,No_No
+731,0,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,Maybe,No,Yes,Some of them,No,No,Don't know,No,No_No,Yes_No
+732,1,0,No,No,No,Never,6-25,Yes,Yes,Don't know,Very easy,No,No,Yes,Yes,No,No,Don't know,No,Don't know_Not sure,No_No
+733,1,0,No,No,No,Never,26-100,No,No,Yes,Don't know,No,No,Yes,Yes,No,No,Don't know,No,Yes_Yes,Yes_Yes
+735,2,0,Yes,No,No,Never,100-1000,No,No,Don't know,Very easy,No,No,Yes,Some of them,No,Yes,No,No,No_Not sure,No_No
+736,3,0,No,No,No,Never,More than 1000,No,No,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,Yes_Yes,Don't know_Yes
+737,2,0,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Don't know_Not sure,No_No
+738,0,0,No,No,No,Never,6-25,No,Yes,Yes,Don't know,Maybe,No,Yes,Some of them,No,Yes,Yes,No,No_No,No_Yes
+739,2,0,No,Yes,Yes,Sometimes,More than 1000,Yes,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Don't know_No,Don't know_Don't know
+740,3,0,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,Yes,No_Yes,No_No
+741,2,0,No,No,No,Never,6-25,No,Yes,Don't know,Very difficult,Yes,Maybe,No,No,No,No,No,No,No_Yes,No_No
+742,3,0,No,No,Yes,Sometimes,100-1000,No,Yes,Don't know,Very easy,No,No,No,Some of them,No,Yes,Yes,No,No_No,No_No
+743,1,0,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,Maybe,Yes,Don't know,No,Yes_Yes,No_Don't know
+744,2,0,No,No,Yes,Sometimes,100-1000,Yes,Yes,Don't know,Very difficult,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,Yes_Yes,No_No
+745,1,0,Yes,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,Yes,Don't know,No,Don't know_Not sure,Don't know_Don't know
+746,1,0,No,No,No,Never,6-25,No,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Yes_Not sure,No_Don't know
+747,2,0,No,No,No,Never,6-25,No,Yes,No,Somewhat difficult,Maybe,No,Some of them,No,Maybe,Maybe,No,No,No_No,No_No
+748,2,0,No,Yes,Yes,Rarely,6-25,No,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Yes_Yes,Yes_Yes
+749,0,0,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,Somewhat difficult,No,No,Some of them,Yes,No,Yes,Don't know,No,Don't know_Not sure,No_No
+750,2,0,No,Yes,No,Never,26-100,No,Yes,Don't know,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,Yes_Yes,No_No
+751,3,0,No,No,No,Never,More than 1000,Yes,Yes,Yes,Very easy,No,No,Some of them,No,No,Maybe,Yes,No,Don't know_Not sure,Yes_Yes
+752,3,0,No,Yes,Yes,Sometimes,100-1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Don't know_Not sure,Don't know_Don't know
+753,3,0,Yes,No,No,Never,6-25,No,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,No_No,No_No
+754,2,0,No,No,No,Never,More than 1000,No,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Yes_Yes,Yes_Yes
+755,1,1,No,Yes,Yes,Sometimes,26-100,Yes,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,Don't know_No,No_Don't know
+756,3,1,No,Yes,Yes,Sometimes,26-100,No,No,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,Yes_Not sure,No_Don't know
+757,0,0,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,No,No,Yes_No,Yes_Don't know
+758,2,0,No,No,No,Rarely,26-100,No,Yes,Yes,Somewhat easy,Maybe,Maybe,No,Some of them,Maybe,Maybe,Yes,No,No_No,No_No
+759,0,0,No,No,Yes,Often,More than 1000,No,No,No,Don't know,Yes,No,Some of them,Some of them,No,Yes,No,Yes,No_Yes,No_No
+760,1,0,Yes,Yes,No,Sometimes,1-5,Yes,Yes,Yes,Somewhat easy,No,No,No,No,No,No,Yes,No,No_Yes,No_No
+761,3,1,No,Yes,Yes,Rarely,26-100,No,No,Don't know,Don't know,Maybe,Maybe,Yes,Some of them,No,Maybe,Yes,No,Yes_Yes,Yes_Yes
+762,3,0,No,Yes,Yes,Sometimes,1-5,No,Yes,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,No_No,No_No
+763,3,0,No,Yes,Yes,Sometimes,1-5,No,Yes,No,Very difficult,Yes,Yes,No,No,No,No,No,No,No_No,No_No
+764,0,1,No,No,Yes,Sometimes,100-1000,No,Yes,Don't know,Somewhat easy,Yes,No,Some of them,No,No,Maybe,No,No,Don't know_Not sure,Yes_Don't know
+765,3,0,Yes,No,No,Never,6-25,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,No_No,Yes_No
+766,2,1,Yes,Yes,Yes,Sometimes,1-5,No,Yes,Yes,Somewhat easy,Maybe,Yes,Some of them,No,No,No,No,No,Yes_Yes,Yes_Yes
+767,0,0,No,No,No,Never,26-100,No,Yes,Don't know,Somewhat easy,No,No,Some of them,No,Yes,Yes,Don't know,No,Don't know_Not sure,No_Don't know
+768,2,1,No,No,Yes,Never,6-25,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,No,No,Yes_No,No_No
+769,1,0,No,No,No,Never,26-100,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,Don't know_Not sure,No_No
+770,3,0,No,No,Yes,Sometimes,100-1000,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Don't know_No,No_No
+771,2,0,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Yes,Very easy,Maybe,Maybe,Yes,Yes,No,No,Yes,No,No_Yes,No_No
+772,2,0,No,No,No,Never,More than 1000,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No,Don't know_Not sure,No_Don't know
+773,1,0,No,No,No,Never,More than 1000,No,No,Don't know,Don't know,No,No,Some of them,Some of them,Yes,Yes,No,No,Don't know_Not sure,No_Don't know
+774,3,0,No,Yes,Yes,Rarely,6-25,No,Yes,Yes,Somewhat easy,Yes,No,Some of them,Yes,No,Maybe,No,Yes,No_No,No_No
+775,3,0,No,No,Yes,Sometimes,100-1000,No,No,Yes,Very easy,Yes,No,Some of them,Yes,No,Maybe,No,Yes,Yes_Yes,Yes_Yes
+776,3,0,No,No,No,Sometimes,6-25,Yes,Yes,Don't know,Don't know,Maybe,No,No,No,No,Maybe,No,No,Don't know_No,No_Don't know
+777,2,2,No,No,Yes,Sometimes,More than 1000,No,No,Don't know,Don't know,No,No,Yes,Some of them,Yes,Yes,Yes,Yes,Don't know_No,Yes_Yes
+778,0,1,No,No,No,Never,More than 1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,Don't know_Not sure,No_Yes
+779,1,1,No,No,No,Never,6-25,No,Yes,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,Don't know_No,No_No
+780,3,0,No,No,Yes,Never,26-100,No,Yes,Don't know,Don't know,No,No,Yes,Yes,Yes,Yes,Don't know,No,Don't know_No,No_Don't know
+781,2,0,No,No,Yes,Sometimes,6-25,Yes,Yes,Yes,Somewhat difficult,No,No,Yes,Yes,Yes,Yes,Don't know,No,No_Yes,No_No
+782,2,0,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Don't know_Not sure,Don't know_Don't know
+783,2,0,Yes,No,No,Never,1-5,No,Yes,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,Don't know_No,No_No
+784,0,0,No,No,No,Never,6-25,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Don't know_No,No_No
+785,0,0,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,No,Yes,Yes_Yes,Yes_Yes
+786,2,0,Yes,Yes,No,Never,1-5,No,Yes,Yes,Somewhat easy,No,No,No,Yes,No,Maybe,No,No,No_Yes,No_No
+787,0,0,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,Yes_Yes,Don't know_Don't know
+788,3,0,No,No,No,Never,100-1000,Yes,No,Don't know,Somewhat easy,Maybe,No,Yes,Yes,No,No,Don't know,No,Don't know_No,Don't know_Don't know
+789,3,0,No,No,Yes,Never,More than 1000,No,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,Yes,No,Yes_Yes,Yes_Yes
+790,1,0,No,No,No,Rarely,100-1000,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Don't know,Yes,Don't know_Not sure,No_No
+791,2,0,No,No,Yes,Sometimes,More than 1000,No,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Yes_Yes,Don't know_Don't know
+792,3,1,No,No,Yes,Often,6-25,Yes,Yes,Yes,Somewhat difficult,Yes,No,Some of them,Some of them,No,Yes,No,Yes,Don't know_Not sure,No_No
+793,2,1,No,No,Yes,Sometimes,100-1000,No,No,Yes,Very difficult,Yes,Maybe,No,Some of them,No,Yes,No,Yes,Yes_No,No_No
+794,0,1,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Very difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,No,Yes,Don't know_Not sure,Don't know_Don't know
+795,3,0,No,No,No,Never,26-100,No,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,No,Maybe,No,Yes,Yes_Yes,No_No
+796,2,1,No,Yes,Yes,Often,100-1000,No,Yes,Don't know,Don't know,Yes,No,Some of them,Yes,No,No,Don't know,No,Yes_No,No_Don't know
+797,1,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,No,Yes,Don't know_No,No_No
+798,0,0,No,Yes,No,Never,26-100,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Yes,No,No,No_No,No_No
+799,2,1,No,No,Yes,Sometimes,100-1000,Yes,Yes,Don't know,Very easy,Maybe,No,Some of them,No,No,Maybe,Yes,No,Don't know_No,Don't know_Don't know
+800,1,0,No,No,No,Never,100-1000,No,No,Yes,Very easy,Yes,Maybe,Yes,Yes,No,Maybe,Don't know,No,Yes_Yes,Yes_No
+801,0,0,No,Yes,Yes,Sometimes,6-25,No,Yes,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,No_Yes,No_No
+802,3,0,No,No,No,Never,26-100,Yes,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,Yes_No,No_No
+803,1,1,No,No,No,Never,More than 1000,No,Yes,Yes,Very easy,No,No,Some of them,No,No,No,Yes,No,Yes_Yes,Yes_Yes
+804,2,0,No,No,No,Never,26-100,No,Yes,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,Don't know_Not sure,No_Don't know
+805,1,1,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,No,No,Yes,No_Yes,No_No
+806,3,1,No,Yes,Yes,Sometimes,100-1000,No,No,Yes,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,Yes,Yes_Yes,Yes_Yes
+807,2,1,No,Yes,No,Never,6-25,No,Yes,Don't know,Don't know,No,No,No,Some of them,No,Maybe,Yes,No,Don't know_No,No_Don't know
+808,0,0,No,No,No,Never,26-100,Yes,Yes,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Don't know_Not sure,No_Don't know
+809,3,0,No,Yes,No,Sometimes,More than 1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,No,Yes_Yes,No_Yes
+810,1,0,No,No,No,Never,6-25,No,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Don't know_No,No_No
+811,1,0,No,No,Yes,Sometimes,100-1000,No,Yes,Don't know,Somewhat difficult,No,No,Some of them,Some of them,No,Maybe,No,No,No_No,No_No
+812,2,0,No,No,Yes,Often,1-5,No,No,Yes,Very difficult,Yes,No,Some of them,Some of them,No,Yes,No,Yes,No_No,No_No
+813,1,0,No,No,Yes,Never,6-25,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,No_Yes,No_No
+814,2,1,Yes,No,No,Sometimes,1-5,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Don't know_Not sure,Don't know_Don't know
+815,3,1,No,No,No,Sometimes,26-100,No,Yes,Don't know,Don't know,Yes,No,No,No,No,Yes,Don't know,No,Don't know_Not sure,No_Don't know
+816,3,0,No,Yes,Yes,Sometimes,100-1000,No,Yes,Yes,Very difficult,Maybe,No,Some of them,Yes,No,No,Don't know,No,Yes_Yes,Yes_Yes
+817,3,0,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Very easy,Yes,Yes,Some of them,No,No,No,Yes,No,No_Yes,No_No
+818,0,2,Yes,No,Yes,Sometimes,6-25,Yes,Yes,Yes,Very easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,No_Not sure,Yes_Yes
+819,2,0,Yes,Yes,Yes,Often,1-5,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No,No_Yes,Yes_No
+820,3,1,No,Yes,Yes,Sometimes,100-1000,No,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,Don't know,No,Yes_Not sure,Yes_Don't know
+821,2,0,Yes,Yes,Yes,Often,1-5,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Some of them,Maybe,Yes,Yes,No,No_Yes,Yes_No
+822,3,0,No,No,No,Never,More than 1000,Yes,Yes,No,Very difficult,Yes,Yes,No,No,No,No,Don't know,No,No_Yes,No_No
+823,2,0,No,No,No,Never,More than 1000,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Yes,No,Don't know_Not sure,Don't know_Don't know
+824,3,0,No,No,No,Never,More than 1000,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,Yes_No,Yes_Yes
+825,3,1,No,Yes,No,Often,26-100,No,Yes,No,Very difficult,Yes,Yes,No,Some of them,No,No,No,Yes,Don't know_No,No_No
+826,0,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Don't know_Not sure,Don't know_Don't know
+827,3,0,Yes,No,No,Sometimes,1-5,Yes,Yes,Don't know,Somewhat easy,Yes,Maybe,Some of them,No,No,No,Don't know,No,Don't know_Not sure,No_No
+828,1,1,No,No,Yes,Rarely,6-25,No,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Don't know_No,No_No
+829,2,0,No,Yes,Yes,Sometimes,1-5,No,No,Yes,Don't know,No,No,Some of them,Yes,No,No,Yes,No,No_Yes,No_No
+830,1,0,No,Yes,No,Sometimes,More than 1000,Yes,No,Yes,Very easy,Maybe,No,Some of them,No,No,No,Yes,No,Yes_Yes,No_Yes
+831,3,0,No,No,No,Never,100-1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,Yes_Not sure,No_Don't know
+832,1,0,No,No,Yes,Rarely,6-25,No,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,No_Yes,No_No
+833,1,1,No,Yes,Yes,Rarely,100-1000,No,Yes,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,Yes_Not sure,Don't know_No
+834,2,0,No,No,Yes,Sometimes,1-5,No,Yes,Don't know,Don't know,Yes,No,No,No,No,Yes,Don't know,No,No_No,No_No
+835,3,0,No,Yes,Yes,Sometimes,100-1000,No,No,Don't know,Somewhat difficult,Maybe,No,Some of them,Yes,No,Maybe,No,Yes,Don't know_No,No_No
+836,0,1,No,Yes,Yes,Often,6-25,No,Yes,Yes,Very easy,No,No,Some of them,Yes,No,Yes,No,Yes,Yes_Yes,No_No
+837,3,1,No,No,No,Never,100-1000,Yes,Yes,Don't know,Very difficult,Yes,Yes,No,No,No,No,No,No,Don't know_No,No_Don't know
+838,3,0,No,Yes,No,Never,More than 1000,No,No,Don't know,Very easy,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,Don't know_No,No_No
+839,2,0,No,No,No,Rarely,More than 1000,No,Yes,Yes,Somewhat difficult,No,No,Some of them,Yes,No,No,No,No,Yes_Yes,Yes_Yes
+840,3,0,No,No,Yes,Sometimes,More than 1000,No,No,Don't know,Very difficult,Maybe,No,Some of them,Yes,No,No,Don't know,No,Don't know_No,No_Don't know
+841,2,0,Yes,No,No,Sometimes,6-25,Yes,Yes,Don't know,Somewhat difficult,No,No,Yes,Yes,No,Maybe,Don't know,Yes,No_No,No_No
+842,1,1,No,Yes,Yes,Sometimes,100-1000,No,Yes,Don't know,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,Yes_Yes,No_No
+843,2,0,No,No,No,Sometimes,More than 1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Don't know_Not sure,Yes_Don't know
+844,2,0,No,Yes,No,Never,26-100,No,No,Yes,Somewhat difficult,No,No,Some of them,Some of them,No,No,Don't know,No,Yes_No,No_No
+845,3,0,No,No,No,Sometimes,26-100,No,Yes,Don't know,Don't know,Yes,Yes,Some of them,No,No,No,No,No,Don't know_Not sure,Don't know_Don't know
+846,2,0,No,No,Yes,Sometimes,100-1000,No,Yes,Yes,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Don't know_No,Yes_Don't know
+847,2,0,Yes,No,Yes,Sometimes,1-5,No,Yes,Don't know,Very easy,No,No,Yes,No,No,No,Yes,No,No_No,No_No
+848,3,0,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,No_Yes,No_No
+849,3,0,No,No,No,Rarely,More than 1000,No,Yes,Yes,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,No,Yes_Yes,Yes_Yes
+850,3,0,No,No,Yes,Sometimes,1-5,Yes,Yes,Don't know,Somewhat easy,Maybe,No,No,No,No,Maybe,Don't know,No,No_Yes,No_No
+851,0,0,No,Yes,No,Never,26-100,Yes,Yes,Yes,Don't know,Maybe,No,No,Some of them,No,No,Don't know,No,Yes_Yes,No_Don't know
+852,0,0,No,Yes,No,Never,6-25,No,No,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,No_No,No_No
+853,0,0,No,No,No,Sometimes,6-25,Yes,Yes,Don't know,Very difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,Don't know,No,No_No,No_No
+854,1,0,No,Yes,No,Never,6-25,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Don't know_Not sure,No_No
+855,0,0,No,Yes,No,Never,More than 1000,No,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,Yes_Yes,Yes_Yes
+856,3,0,No,No,No,Never,More than 1000,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Yes,No,Yes_Yes,Yes_Yes
+857,0,0,No,No,No,Never,6-25,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Don't know,No,Don't know_Not sure,Don't know_No
+858,2,0,No,No,No,Never,100-1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,No,No,No_No,No_No
+859,2,0,No,Yes,Yes,Rarely,6-25,No,No,No,Don't know,Yes,Maybe,Some of them,No,No,No,No,No,No_No,No_No
+860,2,0,No,Yes,Yes,Rarely,6-25,No,No,No,Don't know,Yes,Maybe,Some of them,No,No,No,No,No,No_No,No_No
+861,0,0,Yes,No,Yes,Rarely,1-5,Yes,Yes,Don't know,Somewhat difficult,No,No,Yes,Yes,Maybe,Maybe,Yes,No,No_Not sure,Don't know_Don't know
+862,0,0,No,No,No,Never,100-1000,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Don't know_No,Don't know_Don't know
+863,2,0,No,Yes,Yes,Often,6-25,Yes,Yes,Don't know,Very difficult,Yes,No,Some of them,Yes,No,Maybe,No,No,No_Yes,No_No
+864,3,0,No,No,Yes,Rarely,More than 1000,No,No,Yes,Somewhat easy,Yes,Maybe,No,No,No,Maybe,Yes,No,Yes_Yes,Yes_Yes
+865,2,0,No,No,No,Never,6-25,Yes,Yes,No,Somewhat difficult,Yes,Maybe,No,No,No,Yes,No,Yes,No_No,No_No
+866,2,0,No,Yes,Yes,Sometimes,6-25,No,Yes,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Yes_Yes,No_No
+867,3,0,No,No,No,Never,1-5,Yes,Yes,Don't know,Very difficult,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,No,No,No_Yes,No_No
+868,2,0,Yes,No,No,Sometimes,1-5,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,No,No,No_Yes,No_No
+869,3,0,Yes,No,No,Never,More than 1000,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,Don't know_No,No_Don't know
+870,3,0,No,No,Yes,Rarely,More than 1000,Yes,Yes,Yes,Somewhat easy,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes_Yes,Don't know_Yes
+871,2,1,No,Yes,Yes,Sometimes,100-1000,No,Yes,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Yes,Don't know,Yes,Don't know_No,No_No
+872,3,0,No,No,No,Never,26-100,No,No,Yes,Don't know,Maybe,Maybe,Some of them,Some of them,No,Yes,No,Yes,Yes_Yes,Yes_Yes
+873,3,0,No,No,No,Never,More than 1000,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Don't know_Not sure,Don't know_Don't know
+874,3,0,No,Yes,No,Never,100-1000,No,No,Yes,Very easy,Maybe,No,No,No,No,No,No,No,Yes_Yes,No_No
+875,1,0,Yes,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,Very difficult,Yes,No,No,No,No,Maybe,Don't know,No,Don't know_Not sure,No_Don't know
+876,1,0,No,No,No,Never,26-100,No,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,Yes_No,Yes_No
+877,1,0,No,No,No,Never,More than 1000,No,No,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,Don't know_Not sure,No_Don't know
+878,0,1,No,Yes,No,Never,More than 1000,No,No,Don't know,Somewhat easy,Yes,Maybe,No,No,No,Maybe,Don't know,No,No_No,No_Yes
+879,1,0,No,No,Yes,Never,26-100,No,Yes,Yes,Very easy,Maybe,No,No,No,No,No,Don't know,No,Yes_Yes,No_Don't know
+880,1,0,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,No,Don't know_Not sure,Don't know_Don't know
+881,1,0,No,No,No,Never,26-100,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Yes_Yes,Don't know_Don't know
+882,3,0,No,No,No,Never,100-1000,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Yes,Yes,Yes_No,Yes_Don't know
+883,2,0,Yes,No,No,Never,1-5,No,Yes,Don't know,Somewhat difficult,No,No,Some of them,Yes,Yes,Yes,Yes,No,Yes_No,No_Don't know
+884,2,0,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,No,No,Yes_Yes,No_Don't know
+885,3,0,No,Yes,No,Never,100-1000,Yes,No,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,Don't know_No,No_No
+886,1,0,No,No,Yes,Rarely,6-25,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Don't know_Not sure,No_No
+887,3,0,No,Yes,No,Never,100-1000,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,Yes_Yes,Yes_Yes
+888,0,0,Yes,No,No,Never,100-1000,No,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,No_No,No_No
+889,3,0,No,Yes,No,Sometimes,More than 1000,No,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,Don't know,Yes,Yes_No,Yes_Yes
+890,3,0,Yes,Yes,No,Sometimes,6-25,Yes,No,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No,Yes_Not sure,Don't know_Yes
+891,2,0,Yes,Yes,Yes,Rarely,1-5,Yes,Yes,Don't know,Very difficult,Yes,No,Some of them,No,No,Maybe,Don't know,No,No_Yes,No_No
+892,1,0,No,Yes,No,Never,100-1000,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Don't know_Not sure,Don't know_Don't know
+893,1,0,No,Yes,No,Never,100-1000,No,Yes,Don't know,Very difficult,Yes,Yes,Some of them,No,Maybe,Maybe,No,No,Yes_No,Don't know_Yes
+894,3,0,No,Yes,Yes,Often,100-1000,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Yes,Don't know,No,Don't know_Not sure,No_Don't know
+895,3,0,No,No,No,Never,100-1000,No,No,Don't know,Somewhat difficult,No,No,Some of them,Yes,No,No,Don't know,No,Don't know_Not sure,No_Don't know
+896,2,0,No,No,No,Never,More than 1000,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Yes,No,Yes_Yes,Yes_Yes
+897,2,0,Yes,No,Yes,Sometimes,1-5,Yes,Yes,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,No_Not sure,No_No
+898,3,0,Yes,No,No,Never,1-5,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No,No_Yes,No_No
+899,0,0,No,No,No,Sometimes,26-100,Yes,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,No,No,Don't know_No,No_Don't know
+900,0,0,No,Yes,Yes,Rarely,26-100,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,No,No,No_No,No_No
+901,3,0,No,Yes,Yes,Rarely,26-100,No,Yes,Don't know,Very difficult,Yes,Yes,Some of them,No,No,No,No,Yes,No_No,No_No
+902,0,1,Yes,No,Yes,Often,1-5,No,Yes,Yes,Very easy,Maybe,Maybe,Some of them,Some of them,No,No,Yes,Yes,Yes_Yes,Yes_Yes
+903,0,0,Yes,No,No,Never,1-5,Yes,Yes,Yes,Very easy,No,No,No,No,No,Maybe,Yes,No,No_Yes,No_No
+904,3,0,Yes,No,No,Never,1-5,No,Yes,Yes,Somewhat difficult,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,No_Yes,No_No
+905,3,0,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Somewhat difficult,Yes,Maybe,No,No,No,Maybe,No,Yes,Yes_Yes,No_Yes
+906,1,0,No,No,No,Never,More than 1000,Yes,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,Yes_No,Yes_Yes
+907,0,1,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Don't know,Yes,Yes,No,No,No,No,No,No,Yes_Yes,Yes_No
+908,2,0,No,No,Yes,Rarely,100-1000,Yes,Yes,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,Yes_Yes,Don't know_Don't know
+909,3,0,No,No,Yes,Never,More than 1000,No,Yes,Yes,Don't know,Maybe,Maybe,Yes,Yes,No,Maybe,Yes,Yes,Yes_Yes,Yes_Yes
+910,3,0,No,No,Yes,Sometimes,6-25,No,Yes,Don't know,Somewhat easy,Yes,No,Some of them,No,No,Maybe,No,Yes,No_No,No_No
+911,3,0,No,No,Yes,Rarely,6-25,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Don't know,No,Yes_Yes,No_Yes
+912,0,1,No,Yes,Yes,Often,6-25,Yes,Yes,Don't know,Very easy,No,No,Yes,Yes,No,No,Don't know,No,No_No,No_No
+913,2,0,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,No,No,Don't know,No,Don't know_Yes,No_Yes
+914,0,1,No,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,Yes_Yes,No_No
+915,1,0,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,Somewhat difficult,Yes,Maybe,Some of them,No,No,Maybe,No,No,No_No,No_No
+916,1,0,Yes,No,No,Never,1-5,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,No_Yes,No_No
+917,2,0,Yes,No,Yes,Sometimes,1-5,Yes,Yes,Yes,Somewhat difficult,No,No,Some of them,Some of them,No,No,Yes,No,No_No,No_No
+918,1,0,No,No,No,Never,More than 1000,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,Yes_Yes,Yes_Yes
+919,0,1,No,Yes,Yes,Often,More than 1000,No,Yes,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No,Don't know_Not sure,No_Don't know
+920,1,0,No,Yes,No,Sometimes,6-25,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Yes,Don't know,No,Don't know_Not sure,No_Don't know
+921,2,0,No,Yes,Yes,Rarely,26-100,No,No,Yes,Somewhat difficult,Maybe,No,Some of them,Some of them,No,No,No,No,Yes_Yes,No_Yes
+922,1,0,No,Yes,Yes,Sometimes,26-100,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No,Yes_No,No_No
+923,3,0,No,No,Yes,Sometimes,More than 1000,No,No,Yes,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,Yes,No,Yes,No_Yes,Don't know_No
+924,2,0,No,Yes,No,Never,100-1000,No,Yes,Don't know,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes_No,Don't know_Don't know
+925,1,0,No,No,No,Sometimes,More than 1000,No,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,Yes_No,Yes_No
+926,3,0,No,Yes,No,Sometimes,100-1000,No,No,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,No,No,Yes_Not sure,No_Don't know
+927,1,0,No,No,No,Never,26-100,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Yes,No,Yes_Yes,Yes_Yes
+928,0,0,No,No,No,Never,100-1000,Yes,Yes,Yes,Don't know,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,Yes_No,No_No
+929,1,0,No,Yes,No,Never,100-1000,No,Yes,Don't know,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,Don't know_No,Don't know_Don't know
+930,2,1,No,Yes,Yes,Sometimes,6-25,No,No,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,Yes,No,Yes_Not sure,Yes_Yes
+931,2,0,No,No,No,Often,1-5,No,Yes,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Don't know_No,No_Yes
+932,3,0,No,No,Yes,Sometimes,100-1000,Yes,Yes,Yes,Very difficult,Yes,Maybe,Some of them,No,No,Maybe,No,Yes,Yes_Yes,No_Yes
+933,3,0,No,Yes,Yes,Sometimes,100-1000,No,Yes,Don't know,Very difficult,Yes,Yes,No,Some of them,No,Maybe,No,No,No_Not sure,No_No
+934,0,0,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Very difficult,Maybe,No,Some of them,Some of them,Yes,Yes,No,Yes,Don't know_Not sure,No_Yes
+935,3,0,Yes,Yes,Yes,Rarely,1-5,Yes,No,Yes,Very difficult,Maybe,No,No,No,No,No,No,No,No_No,No_No
+936,3,0,No,No,Yes,Often,6-25,No,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Don't know_No,No_Don't know
+937,2,0,No,Yes,Yes,Never,6-25,No,Yes,Don't know,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,Yes,Don't know_No,No_Don't know
+938,2,0,No,No,Yes,Rarely,More than 1000,No,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Yes_Yes,Yes_Yes
+939,3,0,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,No,No,Yes_Yes,Yes_Yes
+940,1,0,No,Yes,Yes,Rarely,More than 1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,No,No,No,Yes_Yes,Don't know_Don't know
+941,3,0,No,Yes,Yes,Sometimes,More than 1000,Yes,Yes,Yes,Very difficult,Yes,No,Some of them,Some of them,No,Maybe,Don't know,Yes,Yes_Yes,Yes_Yes
+942,1,1,No,Yes,Yes,Sometimes,100-1000,No,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,No,Yes,No,Yes_Yes,No_Don't know
+943,2,0,No,Yes,No,Sometimes,100-1000,No,Yes,Don't know,Don't know,Yes,No,Some of them,No,No,No,Don't know,No,Yes_Yes,Yes_Yes
+944,1,0,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,No,No,Don't know_No,Don't know_Don't know
+945,3,0,No,Yes,Yes,Often,26-100,No,Yes,Yes,Don't know,Yes,No,Some of them,No,No,No,No,No,Yes_Yes,No_No
+946,3,0,No,No,No,Never,More than 1000,No,No,Don't know,Don't know,No,No,Some of them,Some of them,No,No,Yes,No,Yes_Yes,Yes_Yes
+947,3,0,No,No,Yes,Rarely,More than 1000,No,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,Yes_Yes,Yes_Yes
+948,2,0,No,No,Yes,Sometimes,More than 1000,No,Yes,Don't know,Very difficult,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Yes_Yes,Don't know_Yes
+949,3,0,No,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Very easy,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Yes_Yes,Don't know_Don't know
+950,2,0,No,No,Yes,Rarely,26-100,No,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,No_Yes,No_No
+951,0,0,No,Yes,Yes,Often,26-100,No,No,No,Somewhat easy,Yes,Maybe,Some of them,Yes,No,Maybe,No,Yes,Don't know_Yes,No_No
+952,3,0,Yes,No,Yes,Sometimes,1-5,Yes,Yes,Don't know,Very difficult,Yes,Maybe,Some of them,Yes,No,Maybe,No,Yes,No_No,No_No
+953,2,1,No,Yes,Yes,Rarely,6-25,No,Yes,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,Don't know,No,Don't know_No,No_Don't know
+954,3,0,No,No,No,Never,6-25,No,Yes,Yes,Don't know,Maybe,No,Some of them,Yes,Maybe,Maybe,Don't know,No,No_No,No_No
+955,2,0,No,Yes,Yes,Often,26-100,No,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Yes,Yes,Yes,No,Don't know_Not sure,Yes_No
+956,1,0,No,Yes,No,Never,More than 1000,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,No,No,No,Don't know_No,No_Don't know
+957,2,0,Yes,Yes,Yes,Rarely,1-5,Yes,Yes,Yes,Very easy,No,No,Yes,Some of them,No,Maybe,Yes,No,Yes_Yes,Yes_Yes
+958,0,0,No,No,Yes,Rarely,More than 1000,No,Yes,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,No,No,Yes_Not sure,Don't know_Don't know
+959,2,0,No,No,No,Never,More than 1000,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Don't know_Not sure,Don't know_Don't know
+960,2,0,No,No,No,Never,6-25,No,Yes,Don't know,Very easy,No,No,No,Yes,No,Maybe,No,No,Don't know_No,No_No
+961,0,0,Yes,No,No,Sometimes,6-25,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Yes,Yes,Yes,No,No_Yes,No_No
+962,2,0,Yes,No,Yes,Sometimes,26-100,Yes,No,Don't know,Somewhat difficult,Yes,Maybe,Yes,No,No,Maybe,Don't know,No,Don't know_No,No_No
+963,0,0,Yes,Yes,No,Often,1-5,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,Don't know_Not sure,No_No
+964,3,0,No,No,Yes,Often,More than 1000,No,No,Don't know,Somewhat easy,Yes,Maybe,No,Some of them,No,Maybe,No,Yes,Yes_Yes,Yes_Yes
+965,2,0,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,No,Very difficult,Yes,Maybe,Some of them,Some of them,No,Maybe,No,Yes,No_Yes,No_No
+966,0,1,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,Very easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,No_No,No_No
+967,0,0,No,No,No,Never,6-25,Yes,Yes,Don't know,Very easy,No,No,Yes,Yes,No,No,Don't know,No,Don't know_Not sure,Don't know_Don't know
+968,3,0,No,Yes,No,Rarely,100-1000,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Don't know_No,No_No
+969,2,1,Yes,No,Yes,Sometimes,1-5,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Don't know,No,No_Yes,Yes_Yes
+970,3,0,No,No,No,Sometimes,More than 1000,Yes,Yes,Don't know,Very difficult,Yes,Maybe,No,No,No,Maybe,No,Yes,No_Not sure,No_No
+971,1,0,Yes,No,Yes,Sometimes,6-25,No,Yes,No,Very difficult,Yes,Yes,No,No,No,No,Yes,Yes,No_Yes,No_No
+972,3,0,No,Yes,Yes,Rarely,6-25,No,Yes,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,Don't know_Not sure,No_Don't know
+973,3,0,No,Yes,No,Never,More than 1000,No,Yes,Yes,Don't know,No,No,Yes,Yes,No,No,Yes,No,Yes_Yes,Yes_Yes
+974,1,0,No,No,No,Never,6-25,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,Don't know_Not sure,No_No
+975,0,0,No,No,No,Never,100-1000,No,Yes,Don't know,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Don't know_No,Don't know_Don't know
+976,3,0,No,No,No,Never,More than 1000,No,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,Yes,Yes_Yes,Yes_Yes
+977,0,0,No,Yes,No,Never,100-1000,No,No,Yes,Somewhat easy,Maybe,Maybe,No,Some of them,No,Maybe,Don't know,Yes,Yes_Yes,Don't know_No
+978,0,0,No,No,No,Never,6-25,No,Yes,No,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No,Yes_No,No_No
+979,1,0,No,Yes,Yes,Often,26-100,No,Yes,Don't know,Somewhat easy,Maybe,Maybe,Yes,Yes,No,No,No,No,No_No,No_No
+980,3,0,No,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,Maybe,No,No,No_No,No_No
+981,3,1,Yes,Yes,Yes,Rarely,1-5,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,Yes,No_Yes,No_No
+982,2,1,No,Yes,Yes,Often,26-100,Yes,No,No,Somewhat easy,Yes,Yes,Some of them,No,No,No,Don't know,No,Yes_Yes,No_Yes
+983,1,0,No,Yes,Yes,Often,100-1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No,Don't know_Not sure,No_Don't know
+984,0,0,No,No,No,Never,26-100,No,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Yes_Not sure,Yes_No
+985,1,0,No,No,Yes,Sometimes,6-25,Yes,Yes,Don't know,Very easy,No,No,Yes,Yes,No,Yes,Yes,No,No_No,No_No
+986,3,1,No,Yes,No,Rarely,100-1000,Yes,Yes,Don't know,Somewhat difficult,Yes,Yes,No,No,No,No,No,Yes,Don't know_Not sure,No_No
+987,1,0,No,No,No,Often,6-25,No,Yes,No,Somewhat difficult,Yes,No,No,No,No,Yes,Yes,No,No_No,No_No
+988,0,0,No,Yes,No,Sometimes,26-100,No,Yes,Yes,Somewhat easy,No,No,No,No,No,Maybe,Don't know,No,Yes_Not sure,Yes_Yes
+990,3,0,No,No,No,Never,1-5,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,No_No,No_No
+991,0,0,No,No,No,Never,6-25,No,Yes,Don't know,Very easy,No,No,Yes,Yes,No,No,Yes,No,Yes_No,No_Yes
+992,1,1,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Very easy,No,No,Some of them,No,No,No,Yes,No,Yes_Yes,Yes_Don't know
+993,1,0,Yes,No,No,Never,1-5,Yes,Yes,Yes,Very easy,Maybe,Maybe,No,No,No,No,Yes,No,No_Yes,No_No
+994,0,0,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,Don't know,Yes,No,No,No,No,Maybe,Yes,No,Don't know_No,No_No
+995,2,0,Yes,No,No,Sometimes,1-5,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,Don't know_Not sure,No_Don't know
+996,3,0,No,No,Yes,Rarely,100-1000,Yes,Yes,Yes,Very easy,Maybe,No,Some of them,Yes,No,No,Don't know,No,Yes_Yes,No_No
+997,1,1,No,Yes,No,Never,More than 1000,No,No,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No,Yes_Not sure,No_Don't know
+998,2,0,No,No,No,Rarely,100-1000,No,Yes,Don't know,Don't know,Yes,No,No,No,No,No,Don't know,No,No_No,No_No
+999,0,0,No,No,No,Never,6-25,No,Yes,Don't know,Don't know,No,No,No,No,No,No,Don't know,No,No_No,No_No
+1000,0,0,No,Yes,Yes,Often,6-25,Yes,Yes,Yes,Somewhat easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,Yes_Yes,No_Don't know
+1001,3,0,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,Don't know_No,No_Don't know
+1002,2,0,No,Yes,Yes,Often,100-1000,No,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Don't know,No,Yes_Yes,No_No
+1003,0,1,No,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,No,Maybe,Maybe,Don't know,Yes,Don't know_No,No_Don't know
+1004,2,0,No,Yes,Yes,Sometimes,1-5,No,Yes,Yes,Very easy,Yes,Yes,Some of them,Some of them,No,Maybe,Yes,Yes,No_Yes,No_No
+1005,2,0,No,No,No,Never,100-1000,No,Yes,Don't know,Very easy,Maybe,No,Yes,Yes,No,No,Yes,No,Don't know_No,No_Don't know
+1006,3,0,No,Yes,Yes,Sometimes,100-1000,Yes,No,Yes,Very easy,No,No,Yes,Yes,Yes,Yes,Don't know,No,Yes_Yes,No_Yes
+1007,2,0,No,No,No,Sometimes,100-1000,No,Yes,Don't know,Don't know,Yes,No,Some of them,No,No,Maybe,Don't know,No,Don't know_No,No_No
+1008,3,0,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Yes,Somewhat easy,No,No,Some of them,Yes,Maybe,Yes,Yes,No,No_Yes,No_No
+1009,3,1,No,No,No,Never,100-1000,No,Yes,Don't know,Don't know,Yes,No,No,No,No,No,Don't know,No,Don't know_Not sure,No_No
+1010,3,0,No,No,No,Never,More than 1000,No,No,Yes,Don't know,Maybe,No,No,Yes,No,No,Don't know,No,Yes_Yes,Yes_Yes
+1011,2,1,Yes,No,No,Never,1-5,Yes,Yes,Yes,Somewhat easy,Maybe,No,No,Some of them,No,No,Yes,No,No_Yes,Don't know_Don't know
+1012,0,1,No,Yes,No,Sometimes,More than 1000,No,No,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Some of them,No,No,No,Yes,Yes_Yes,No_Don't know
+1013,3,1,No,Yes,No,Sometimes,26-100,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Don't know_Not sure,Don't know_Don't know
+1014,1,0,No,No,No,Sometimes,More than 1000,No,Yes,Yes,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,Yes,No,Yes_Not sure,Yes_Yes
+1015,0,0,No,No,No,Never,100-1000,No,Yes,Yes,Very easy,Maybe,No,Some of them,Yes,Maybe,Yes,Don't know,No,Don't know_Not sure,No_No
+1016,0,1,No,No,No,Never,6-25,No,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No,Don't know_Not sure,No_No
+1017,3,1,No,No,Yes,Often,More than 1000,No,No,Don't know,Don't know,Yes,No,Some of them,Some of them,No,No,No,Yes,Yes_Yes,Yes_Yes
+1018,1,0,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Yes_No,No_No
+1019,0,0,No,No,No,Rarely,26-100,Yes,Yes,Don't know,Somewhat easy,Yes,No,Some of them,Some of them,No,Yes,Don't know,Yes,Don't know_No,No_No
+1020,0,0,No,No,No,Never,26-100,Yes,Yes,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,Maybe,No,No,Don't know_No,No_No
+1021,1,1,No,Yes,Yes,Sometimes,100-1000,No,No,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,No,Yes,Yes_Yes,Yes_Yes
+1022,2,0,No,No,No,Never,6-25,No,Yes,Don't know,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,No,Yes_Yes,Yes_Yes
+1023,2,0,No,No,No,Never,6-25,No,Yes,Don't know,Don't know,Maybe,Maybe,No,No,No,Maybe,Don't know,No,No_No,No_No
+1024,3,0,No,Yes,No,Sometimes,26-100,Yes,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,Don't know_No,No_No
+1025,3,0,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Don't know_No,No_Don't know
+1026,0,1,No,No,No,Never,More than 1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,No,Yes,No,Yes_Yes,Yes_Yes
+1027,0,0,No,No,No,Sometimes,1-5,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Don't know_Not sure,No_No
+1028,3,1,No,Yes,No,Never,100-1000,Yes,Yes,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No,Yes_Yes,Yes_No
+1029,2,0,No,No,No,Never,More than 1000,No,No,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,No,Don't know,No,Yes_Not sure,Yes_Don't know
+1030,0,0,No,Yes,No,Never,6-25,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Yes,No,Don't know_Not sure,No_No
+1031,1,0,No,Yes,Yes,Rarely,6-25,No,Yes,Yes,Don't know,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Don't know_Not sure,Don't know_Don't know
+1032,3,0,No,Yes,No,Sometimes,More than 1000,Yes,No,Don't know,Don't know,Yes,Maybe,Some of them,Some of them,No,Maybe,No,No,Yes_Not sure,Yes_Don't know
+1033,1,1,No,Yes,Yes,Often,26-100,No,Yes,No,Very difficult,Yes,No,No,No,No,Yes,No,Yes,No_No,No_No
+1034,2,0,No,No,No,Never,100-1000,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,Yes,Don't know_No,No_Don't know
+1035,2,0,No,Yes,No,Sometimes,6-25,Yes,Yes,Don't know,Don't know,Maybe,No,No,Some of them,No,No,Don't know,No,No_Yes,No_No
+1036,0,0,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Don't know,No,No,Yes,Yes,No,Maybe,Yes,No,No_No,No_No
+1037,3,0,No,No,No,Never,More than 1000,Yes,No,Yes,Don't know,Yes,No,Some of them,No,No,No,No,No,Don't know_No,Don't know_Don't know
+1038,2,1,No,No,No,Sometimes,1-5,No,Yes,Don't know,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,No_Not sure,No_No
+1039,2,0,No,No,No,Never,6-25,Yes,Yes,Don't know,Don't know,No,No,No,No,No,No,Don't know,No,No_No,No_No
+1040,1,1,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,Somewhat easy,Yes,No,Some of them,Some of them,No,Maybe,No,No,Don't know_No,No_No
+1041,2,0,No,No,No,Never,6-25,Yes,Yes,Yes,Don't know,No,No,Some of them,Yes,No,No,Yes,No,Yes_No,Don't know_Yes
+1042,3,0,No,Yes,Yes,Sometimes,More than 1000,Yes,Yes,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,Yes_Yes,No_Yes
+1043,0,0,No,No,Yes,Sometimes,6-25,No,Yes,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Yes_Yes,No_No
+1044,1,1,No,No,Yes,Often,More than 1000,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Yes,No,Yes,Yes_Yes,No_No
+1045,0,1,No,Yes,Yes,Sometimes,100-1000,No,Yes,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Yes_Not sure,No_No
+1046,2,0,No,Yes,Yes,Sometimes,6-25,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,No,Don't know,No,No_Not sure,No_No
+1047,1,0,No,Yes,No,Sometimes,100-1000,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,Yes,No_No,No_No
+1048,3,0,Yes,No,Yes,Often,1-5,Yes,No,Yes,Very difficult,No,No,Some of them,Some of them,No,No,Yes,Yes,No_Yes,Yes_Yes
+1049,3,0,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Yes,Somewhat difficult,No,No,Yes,Yes,No,Maybe,Yes,Yes,No_Yes,Yes_Yes
+1050,0,1,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,Maybe,No,Yes,Yes_Yes,No_No
+1051,0,1,No,Yes,No,Sometimes,26-100,No,No,Don't know,Somewhat difficult,Yes,No,No,Some of them,No,Maybe,No,No,No_No,No_No
+1052,2,0,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Very easy,No,No,Some of them,Some of them,No,Maybe,No,No,Don't know_Not sure,No_No
+1053,2,0,No,No,No,Never,1-5,Yes,Yes,Don't know,Very easy,No,No,Some of them,Some of them,No,No,Don't know,No,Don't know_Not sure,Don't know_Don't know
+1054,3,0,No,No,No,Rarely,More than 1000,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,No,No,Don't know_No,No_Don't know
+1055,3,0,No,Yes,Yes,Sometimes,100-1000,No,Yes,Yes,Very easy,No,No,Some of them,Yes,No,No,Yes,No,Yes_Yes,No_Don't know
+1056,0,0,No,No,No,Never,6-25,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Don't know_No,No_Don't know
+1057,2,0,Yes,No,No,Never,6-25,Yes,Yes,No,Very easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,Don't know_No,No_No
+1058,1,0,No,Yes,Yes,Often,More than 1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Yes_Not sure,Don't know_Don't know
+1059,1,1,No,No,Yes,Rarely,6-25,No,Yes,Yes,Very easy,No,No,Some of them,Some of them,No,Yes,Don't know,No,Yes_Yes,Don't know_Yes
+1060,1,1,No,No,Yes,Often,More than 1000,Yes,No,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Don't know,No,Yes_No,No_No
+1061,0,0,No,No,Yes,Sometimes,100-1000,No,Yes,Yes,Very difficult,Maybe,No,Some of them,No,No,Maybe,No,No,Don't know_Not sure,No_No
+1062,3,0,Yes,No,No,Never,1-5,Yes,Yes,Yes,Somewhat difficult,No,No,No,No,No,No,Don't know,No,Don't know_No,No_No
+1063,0,0,No,No,Yes,Often,6-25,Yes,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Don't know_No,No_No
+1064,0,0,No,Yes,Yes,Sometimes,6-25,No,Yes,Don't know,Somewhat easy,Maybe,No,Yes,Yes,No,No,Don't know,No,No_No,No_No
+1065,0,0,No,Yes,Yes,Often,6-25,No,No,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,No,Yes,Don't know_No,No_No
+1066,2,0,No,No,No,Never,6-25,Yes,Yes,Don't know,Somewhat easy,Maybe,Maybe,No,Some of them,No,Maybe,Don't know,No,Yes_Not sure,Don't know_Don't know
+1067,0,0,No,No,No,Never,More than 1000,No,No,Don't know,Somewhat difficult,Maybe,No,No,Yes,No,No,Don't know,No,Yes_Yes,No_Don't know
+1068,3,0,No,No,No,Never,26-100,No,No,Yes,Don't know,Maybe,No,Some of them,Yes,No,Maybe,Don't know,No,Yes_Yes,Yes_Yes
+1069,2,0,No,No,No,Never,26-100,Yes,Yes,Don't know,Very difficult,Yes,Maybe,Some of them,No,No,Maybe,No,No,No_No,No_No
+1070,3,1,No,No,Yes,Sometimes,6-25,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,No,No_No,No_No
+1071,3,0,No,No,No,Sometimes,More than 1000,Yes,Yes,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,Yes_Not sure,No_Yes
+1072,3,0,No,No,No,Rarely,More than 1000,No,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,No,No,No,Yes,Yes,Yes_Yes,Yes_Yes
+1073,0,0,No,No,No,Never,More than 1000,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Don't know_No,No_No
+1074,1,0,No,No,Yes,Sometimes,100-1000,No,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,No,No,Yes_Yes,No_No
+1075,3,0,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Yes,Don't know,Yes,Yes,No,No,No,Maybe,No,Yes,Yes_Yes,Yes_Yes
+1076,3,0,Yes,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,No,Yes_Not sure,No_Don't know
+1077,0,1,No,Yes,Yes,Often,More than 1000,No,Yes,Yes,Very difficult,Maybe,No,Yes,Some of them,No,Maybe,No,Yes,Yes_Yes,Yes_Yes
+1078,3,1,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Yes_Yes,No_Don't know
+1079,2,0,Yes,No,Yes,Sometimes,1-5,No,Yes,Yes,Very difficult,Maybe,No,Some of them,Yes,No,Maybe,No,No,No_No,No_No
+1080,0,0,No,Yes,Yes,Often,1-5,No,Yes,Yes,Very easy,Maybe,No,Yes,Yes,No,Maybe,No,No,No_Yes,No_No
+1081,1,0,No,Yes,Yes,Often,1-5,No,Yes,Don't know,Very difficult,No,Maybe,Yes,Yes,Maybe,No,Yes,No,Don't know_Not sure,Don't know_Yes
+1082,1,1,No,Yes,Yes,Often,More than 1000,No,No,Don't know,Somewhat difficult,Yes,No,No,No,No,Maybe,No,No,Yes_No,No_No
+1083,2,1,No,Yes,Yes,Often,26-100,No,No,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Yes,No,Don't know_No,Yes_Don't know
+1084,2,0,No,Yes,Yes,Sometimes,1-5,No,No,Yes,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,Maybe,No,No,Yes_Yes,Yes_Yes
+1085,3,0,No,No,No,Never,6-25,No,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Don't know_No,No_No
+1086,3,0,No,No,Yes,Sometimes,More than 1000,No,Yes,Don't know,Somewhat difficult,No,No,Yes,Yes,No,No,Yes,No,Don't know_No,No_No
+1087,3,0,No,Yes,No,Never,More than 1000,No,No,Don't know,Don't know,Yes,Maybe,Some of them,No,No,No,No,No,Yes_Not sure,Yes_Yes
+1088,2,0,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Don't know,No,No,Some of them,Yes,No,Maybe,Don't know,No,Yes_Yes,Yes_Don't know
+1089,1,1,No,Yes,Yes,Sometimes,100-1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Yes,No,Yes_Yes,Don't know_Don't know
+1091,3,0,No,Yes,No,Never,100-1000,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,Yes_Yes,No_Don't know
+1092,2,0,No,Yes,Yes,Often,100-1000,No,Yes,Don't know,Very difficult,Yes,No,Yes,Yes,No,Yes,No,No,No_Yes,No_No
+1093,0,0,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Don't know,Yes,No,No,No,No,No,Yes,No,Yes_Yes,Yes_Don't know
+1094,3,0,No,No,Yes,Sometimes,100-1000,No,Yes,Yes,Very easy,No,No,No,Yes,No,No,Yes,No,Yes_No,No_Yes
+1095,2,0,Yes,No,Yes,Sometimes,1-5,No,No,No,Very difficult,No,No,No,No,No,No,No,Yes,No_Yes,No_No
+1096,0,0,No,Yes,Yes,Rarely,6-25,Yes,Yes,Don't know,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,Don't know_No,No_No
+1097,3,0,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Somewhat difficult,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,Yes,Yes_Not sure,Yes_Don't know
+1098,1,0,No,No,No,Never,More than 1000,No,No,Yes,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Yes,No,Don't know_Not sure,Yes_Don't know
+1099,3,0,No,No,No,Never,100-1000,No,Yes,Don't know,Don't know,No,No,Yes,Some of them,No,No,Yes,No,Don't know_No,No_Don't know
+1100,1,0,No,No,No,Never,6-25,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,Don't know,No,Yes_Not sure,No_Yes
+1101,0,0,No,Yes,No,Sometimes,100-1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Don't know_Not sure,No_No
+1102,2,1,Yes,Yes,Yes,Often,1-5,Yes,Yes,No,Very difficult,Yes,Yes,No,No,No,Maybe,No,Yes,No_Yes,No_No
+1103,2,1,No,Yes,No,Sometimes,6-25,Yes,Yes,Don't know,Somewhat easy,No,No,Yes,Some of them,No,No,Yes,No,Don't know_No,No_No
+1104,3,0,No,No,No,Never,6-25,Yes,Yes,Don't know,Don't know,Yes,Maybe,Some of them,No,No,Maybe,Don't know,No,Yes_No,No_No
+1105,0,0,No,No,Yes,Rarely,6-25,Yes,Yes,Don't know,Somewhat easy,Maybe,No,No,Some of them,No,Maybe,Don't know,No,No_Yes,No_Don't know
+1106,3,0,Yes,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Yes,No,No,Don't know,No,No_No,No_No
+1107,0,0,No,Yes,Yes,Rarely,26-100,No,Yes,Don't know,Very easy,No,No,Yes,Yes,Maybe,Yes,Yes,No,No_No,Don't know_Don't know
+1108,2,1,No,No,Yes,Often,More than 1000,No,Yes,Don't know,Don't know,Yes,No,No,No,No,Maybe,Don't know,No,Yes_Yes,Don't know_Don't know
+1109,1,0,No,No,No,Often,6-25,No,Yes,No,Very easy,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,No_No,No_No
+1110,2,0,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Yes_Yes,No_Don't know
+1111,1,0,No,No,Yes,Often,6-25,No,Yes,Yes,Somewhat easy,Maybe,Maybe,Yes,Some of them,No,Yes,No,No,Yes_No,No_No
+1112,3,0,No,No,No,Never,6-25,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,No,Maybe,Yes,Don't know,No,No_Not sure,No_No
+1113,0,0,No,Yes,Yes,Sometimes,1-5,Yes,Yes,Don't know,Very easy,No,No,Yes,Yes,Maybe,Yes,Don't know,No,Don't know_No,Don't know_Don't know
+1114,3,0,No,No,No,Never,More than 1000,No,No,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Don't know,No,Yes_Not sure,Don't know_Don't know
+1115,0,0,No,No,No,Sometimes,26-100,No,Yes,Yes,Don't know,Maybe,No,No,No,No,Maybe,Don't know,Yes,Yes_Yes,No_No
+1116,3,0,No,No,Yes,Never,100-1000,No,Yes,Don't know,Very easy,Maybe,No,Yes,Some of them,No,Maybe,Don't know,No,Don't know_Not sure,No_Don't know
+1117,3,0,No,Yes,Yes,Sometimes,6-25,No,Yes,Don't know,Don't know,Yes,Maybe,No,Some of them,No,Maybe,Don't know,No,Don't know_Yes,No_Don't know
+1118,3,0,No,Yes,Yes,Rarely,More than 1000,No,No,Yes,Somewhat easy,Yes,No,No,Yes,No,Yes,Don't know,No,Yes_Yes,Yes_Yes
+1119,2,0,No,No,No,Never,1-5,Yes,Yes,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No,No_Yes,No_No
+1120,2,0,Yes,No,Yes,Rarely,1-5,No,Yes,Yes,Very easy,No,No,Some of them,Yes,No,Yes,No,Yes,No_Yes,Yes_Yes
+1121,3,0,No,No,Yes,Sometimes,More than 1000,No,No,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,No,No,No_No,No_Yes
+1122,2,1,No,No,Yes,Never,100-1000,No,Yes,Don't know,Very easy,Maybe,No,Some of them,Some of them,No,Maybe,No,No,Don't know_Not sure,No_Don't know
+1123,3,1,No,No,Yes,Rarely,26-100,No,No,Don't know,Don't know,No,No,Some of them,Some of them,No,Maybe,Don't know,No,Don't know_No,Don't know_Don't know
+1124,2,0,No,No,No,Never,6-25,No,Yes,Yes,Don't know,No,No,No,No,No,No,Yes,No,Don't know_Not sure,Don't know_Don't know
+1125,0,0,Yes,Yes,Yes,Often,1-5,No,Yes,Don't know,Don't know,Maybe,No,Yes,Yes,Maybe,Yes,No,Yes,No_No,No_No
+1126,0,1,No,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,Don't know,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Don't know_Not sure,Don't know_Don't know
+1128,3,0,No,Yes,No,Sometimes,6-25,No,Yes,Yes,Somewhat easy,Maybe,No,Some of them,Yes,No,Maybe,Yes,No,No_No,No_No
+1129,1,0,No,No,No,Never,More than 1000,No,No,Yes,Somewhat easy,Maybe,No,No,No,No,Yes,No,No,Yes_No,No_No
+1130,3,1,No,Yes,Yes,Sometimes,26-100,No,No,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Yes,No,No,Yes_Yes,No_No
+1131,2,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,Yes,No_No,No_No
+1132,2,1,No,Yes,Yes,Rarely,More than 1000,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Some of them,No,No,No,Don't know,No,Yes_Yes,No_No
+1133,0,0,No,No,No,Rarely,26-100,No,Yes,No,Somewhat difficult,Yes,No,No,No,No,Maybe,No,Yes,No_Yes,No_Yes
+1134,0,0,No,No,No,Rarely,26-100,No,Yes,No,Somewhat difficult,Yes,No,No,No,No,Maybe,No,Yes,No_Yes,No_Yes
+1135,0,0,No,No,Yes,Sometimes,More than 1000,No,No,Yes,Somewhat easy,Maybe,No,Yes,Yes,Maybe,Maybe,No,No,No_No,No_No
+1136,0,0,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Yes,Very easy,No,No,Some of them,Yes,No,Maybe,Yes,No,No_No,No_No
+1137,3,0,No,Yes,No,Never,6-25,No,Yes,Don't know,Somewhat difficult,Maybe,Maybe,Some of them,Some of them,Maybe,Maybe,Don't know,No,No_No,No_No
+1138,0,0,No,Yes,Yes,Sometimes,6-25,No,Yes,Don't know,Somewhat easy,Maybe,No,No,No,No,No,Don't know,No,Don't know_Not sure,No_No
+1139,0,0,No,No,Yes,Sometimes,More than 1000,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Don't know_No,No_Don't know
+1140,0,0,No,No,Yes,Often,26-100,No,Yes,Yes,Very difficult,No,No,Yes,Yes,Yes,Yes,Don't know,No,No_Yes,No_No
+1141,1,0,No,No,No,Rarely,More than 1000,No,Yes,Don't know,Don't know,Maybe,Maybe,No,No,No,Yes,Don't know,Yes,Don't know_Not sure,Don't know_Don't know
+1142,1,0,No,No,No,Sometimes,More than 1000,No,No,Don't know,Somewhat easy,Yes,Maybe,No,No,No,No,Don't know,Yes,No_No,No_No
+1143,0,1,No,Yes,No,Never,More than 1000,No,No,Yes,Don't know,Maybe,No,No,No,No,Yes,Yes,No,No_Yes,No_No
+1144,0,0,No,No,No,Never,More than 1000,No,No,Yes,Somewhat difficult,No,No,Yes,Yes,No,Yes,Yes,No,No_Yes,Yes_Yes
+1145,0,1,No,Yes,No,Sometimes,26-100,Yes,Yes,Don't know,Don't know,Maybe,No,No,No,No,No,Don't know,No,Don't know_No,No_No
+1146,3,0,No,Yes,Yes,Sometimes,1-5,No,Yes,Don't know,Very easy,No,No,Some of them,Yes,Maybe,Yes,Don't know,No,No_Not sure,Don't know_Don't know
+1147,3,0,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Very easy,Maybe,Maybe,Some of them,Yes,Maybe,Maybe,Yes,No,No_No,No_No
+1148,2,0,No,Yes,Yes,Often,More than 1000,No,No,Don't know,Somewhat easy,Yes,No,No,Some of them,No,Yes,Don't know,No,Yes_Yes,No_Yes
+1149,2,0,No,No,No,Rarely,6-25,No,Yes,Don't know,Don't know,Maybe,No,No,Some of them,No,Maybe,Don't know,No,Yes_Not sure,No_Don't know
+1150,2,0,No,No,Yes,Sometimes,More than 1000,No,Yes,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,Yes,Yes_Yes,Yes_Yes
+1151,0,0,No,No,No,Never,6-25,No,Yes,Don't know,Don't know,Yes,Maybe,Some of them,No,No,Maybe,Don't know,No,No_No,No_No
+1152,3,0,No,Yes,Yes,Rarely,100-1000,No,Yes,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,No,No,Don't know_Not sure,No_Don't know
+1153,2,1,No,Yes,No,Rarely,26-100,No,No,Yes,Very easy,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Yes_Yes,Yes_Yes
+1154,3,0,No,Yes,Yes,Often,26-100,No,No,Don't know,Somewhat easy,Yes,No,Some of them,Some of them,No,Maybe,Don't know,No,Don't know_Not sure,No_No
+1155,2,0,Yes,No,No,Never,6-25,Yes,Yes,Don't know,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Don't know_Not sure,No_No
+1156,3,0,Yes,No,No,Never,1-5,Yes,Yes,Don't know,Very easy,Yes,Yes,Some of them,Some of them,No,No,Don't know,No,Don't know_Not sure,Don't know_Don't know
+1157,1,0,No,Yes,Yes,Never,6-25,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,No,Don't know_Not sure,No_Don't know
+1158,1,0,No,Yes,Yes,Rarely,6-25,No,Yes,Don't know,Don't know,No,No,No,No,No,No,Don't know,No,No_Yes,No_No
+1159,3,0,No,No,No,Never,More than 1000,Yes,Yes,Don't know,Don't know,Yes,No,No,No,No,No,No,No,Don't know_No,No_Don't know
+1160,1,0,No,No,Yes,Sometimes,26-100,No,Yes,Don't know,Don't know,Yes,No,Some of them,Some of them,No,Maybe,Don't know,No,Yes_Yes,No_No
+1161,1,0,No,No,No,Never,100-1000,No,Yes,Don't know,Don't know,Maybe,Yes,Some of them,No,No,No,Yes,No,Yes_No,No_Yes
+1162,1,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,Yes,Yes,No,No,No,No,Don't know,No,Don't know_Not sure,No_No
+1163,0,0,No,Yes,Yes,Sometimes,6-25,Yes,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,Don't know_No,No_Don't know
+1164,3,1,No,No,Yes,Often,100-1000,Yes,No,Yes,Don't know,Maybe,No,Some of them,Some of them,No,Maybe,No,No,Yes_Yes,No_No
+1165,2,0,No,Yes,No,Sometimes,More than 1000,No,Yes,Don't know,Don't know,Maybe,No,Yes,Yes,No,No,Don't know,No,Yes_No,Yes_Don't know
+1166,1,0,No,Yes,Yes,Sometimes,26-100,No,No,Don't know,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Yes_Yes,Yes_Yes
+1167,2,0,No,No,No,Never,More than 1000,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,Yes,Don't know,No,Don't know_Not sure,No_No
+1168,0,0,No,No,No,Often,6-25,No,Yes,No,Very difficult,Yes,No,No,No,No,Maybe,Yes,No,No_No,No_No
+1169,2,1,No,No,Yes,Sometimes,More than 1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,No,No,No,Yes_Yes,No_Don't know
+1170,1,0,No,No,No,Never,More than 1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,Maybe,Yes,No,No,Don't know_Not sure,No_No
+1171,1,0,No,No,No,Never,More than 1000,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,Yes_No,Yes_Yes
+1172,3,1,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Somewhat easy,No,No,Yes,Yes,No,Maybe,Yes,Yes,Yes_Yes,No_Yes
+1173,0,0,No,No,Yes,Sometimes,1-5,No,Yes,Don't know,Very difficult,Maybe,No,Yes,Yes,Yes,Yes,No,Yes,No_No,No_No
+1174,0,0,No,No,No,Rarely,26-100,No,No,Don't know,Very difficult,Yes,Yes,Some of them,No,No,Maybe,No,No,No_No,No_No
+1175,3,0,No,Yes,No,Never,6-25,No,Yes,Don't know,Somewhat difficult,No,No,Some of them,Yes,No,No,Don't know,Yes,Don't know_No,No_No
+1176,0,1,No,Yes,Yes,Rarely,100-1000,No,Yes,Don't know,Don't know,Maybe,Maybe,No,No,No,Maybe,No,No,Yes_No,No_No
+1177,1,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,Yes,No,Yes,No_No,No_Don't know
+1178,3,0,Yes,No,No,Sometimes,1-5,Yes,Yes,Don't know,Somewhat easy,No,No,Some of them,Some of them,Maybe,Maybe,Don't know,No,No_Yes,No_No
+1179,0,1,No,No,Yes,Sometimes,26-100,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Yes,Some of them,Maybe,No,No,No,No_No,No_No
+1180,2,1,No,No,Yes,Sometimes,26-100,No,Yes,Yes,Don't know,Maybe,Maybe,Some of them,No,No,No,No,No,Yes_Yes,No_No
+1181,3,0,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,No,Yes,Yes_Yes,Yes_Yes
+1182,3,1,No,Yes,Yes,Never,100-1000,Yes,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,No,Don't know,Yes,Yes_Not sure,Don't know_Yes
+1183,2,1,No,Yes,Yes,Sometimes,1-5,Yes,Yes,Yes,Don't know,Maybe,Maybe,Some of them,Some of them,No,No,Yes,No,No_No,No_No
+1184,1,1,No,No,Yes,Often,6-25,No,Yes,Don't know,Very difficult,Yes,Maybe,Some of them,Some of them,No,No,Don't know,No,No_Yes,No_No
+1185,0,1,No,No,No,Never,100-1000,No,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Yes,No,Don't know_Not sure,Don't know_Don't know
+1186,3,1,Yes,No,No,Rarely,1-5,Yes,Yes,Don't know,Don't know,Maybe,Maybe,No,No,No,No,Don't know,No,Don't know_Not sure,Don't know_Don't know
+1187,3,0,No,Yes,Yes,Sometimes,26-100,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Yes_No,No_No
+1188,1,1,No,No,No,Never,26-100,No,Yes,Yes,Very easy,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Don't know_Not sure,No_No
+1189,3,0,No,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Don't know,Maybe,No,Some of them,No,No,No,Yes,No,Yes_Yes,No_No
+1190,3,0,No,Yes,Yes,Sometimes,100-1000,No,Yes,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Yes_Yes,No_Yes
+1191,2,0,No,Yes,No,Sometimes,More than 1000,No,Yes,Yes,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,Yes_Not sure,Yes_Yes
+1192,3,0,No,No,No,Never,26-100,Yes,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Yes,Don't know,No,Don't know_No,No_No
+1193,3,0,No,No,No,Never,26-100,No,Yes,Yes,Don't know,No,No,Some of them,Yes,Yes,Maybe,No,No,Don't know_Not sure,Don't know_Don't know
+1194,0,0,No,No,No,Never,26-100,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,Yes,Yes,Don't know,No,Don't know_Not sure,No_No
+1195,2,1,No,No,Yes,Sometimes,100-1000,No,No,Yes,Don't know,Yes,Yes,Some of them,Some of them,No,No,Yes,No,Yes_Yes,Yes_No
+1196,2,1,No,No,No,Rarely,1-5,No,Yes,No,Don't know,Maybe,No,Some of them,No,No,Maybe,No,No,Don't know_No,No_No
+1197,2,0,No,No,Yes,Often,6-25,No,Yes,Don't know,Somewhat difficult,Yes,Maybe,Some of them,Yes,No,Maybe,No,No,No_No,No_No
+1198,2,0,No,No,Yes,Often,26-100,Yes,Yes,Don't know,Very difficult,Yes,Maybe,Some of them,No,No,No,Don't know,No,Yes_Not sure,No_Don't know
+1199,0,0,No,No,No,Never,100-1000,No,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,Don't know_Not sure,No_Don't know
+1200,1,0,No,No,Yes,Often,100-1000,Yes,Yes,Don't know,Don't know,Yes,No,No,No,No,Maybe,No,No,No_Yes,No_No
+1201,1,1,No,No,Yes,Rarely,6-25,No,Yes,Don't know,Somewhat easy,Yes,Yes,Some of them,No,No,No,No,Yes,Yes_No,No_No
+1202,1,0,Yes,No,Yes,Never,1-5,No,Yes,No,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,No_Yes,No_No
+1203,0,0,No,No,No,Never,100-1000,No,Yes,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Yes,No,Maybe,Don't know,No,Don't know_Not sure,No_No
+1204,2,0,No,Yes,Yes,Never,1-5,Yes,Yes,Don't know,Don't know,Maybe,No,Some of them,Yes,No,No,Don't know,No,No_No,No_No
+1205,2,0,No,No,Yes,Sometimes,6-25,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Maybe,Don't know,No,No_No,No_No
+1206,2,0,No,Yes,No,Often,26-100,Yes,No,Don't know,Somewhat easy,Maybe,No,Some of them,Yes,Maybe,Yes,Yes,No,Don't know_Not sure,No_No
+1207,0,0,No,No,Yes,Sometimes,1-5,No,Yes,No,Very easy,Maybe,Maybe,Some of them,Yes,No,No,No,No,No_Yes,No_No
+1208,2,0,No,Yes,No,Often,100-1000,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Yes,Maybe,Maybe,Don't know,Yes,No_Yes,No_No
+1209,1,0,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Somewhat difficult,Maybe,No,No,No,No,Maybe,No,No,Don't know_Not sure,No_No
+1210,0,0,No,Yes,No,Never,1-5,No,Yes,Don't know,Don't know,Maybe,Maybe,No,No,No,No,Don't know,No,No_No,No_No
+1211,3,0,No,No,No,Never,More than 1000,Yes,Yes,Don't know,Don't know,Yes,No,Yes,Some of them,No,No,No,Yes,Don't know_Not sure,No_No
+1212,2,1,No,No,Yes,Sometimes,More than 1000,No,No,Yes,Somewhat difficult,Maybe,Maybe,Some of them,Yes,No,Maybe,No,Yes,No_Yes,No_Yes
+1213,1,0,No,No,No,Sometimes,More than 1000,No,Yes,Don't know,Very difficult,Yes,Yes,Some of them,No,No,Maybe,No,Yes,Don't know_No,No_No
+1214,2,0,No,No,Yes,Often,26-100,Yes,Yes,Yes,Don't know,Maybe,No,Some of them,No,No,Maybe,Don't know,No,Yes_Yes,No_No
+1215,1,0,No,No,No,Never,6-25,No,Yes,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,No_Not sure,No_No
+1216,0,0,No,No,No,Rarely,More than 1000,Yes,No,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Don't know_Not sure,No_Yes
+1217,3,0,No,No,No,Never,26-100,No,Yes,No,Somewhat difficult,Yes,Yes,Some of them,Some of them,No,No,No,No,No_Yes,No_No
+1218,1,0,No,No,No,Never,6-25,No,Yes,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,No_Not sure,No_No
+1219,3,0,No,No,Yes,Sometimes,More than 1000,Yes,Yes,Yes,Very easy,No,No,Yes,Yes,No,No,Don't know,No,Yes_No,Yes_Yes
+1220,3,0,No,Yes,Yes,Often,26-100,No,Yes,Don't know,Don't know,Maybe,No,Some of them,No,No,No,No,No,Don't know_No,No_No
+1221,3,0,No,Yes,Yes,Sometimes,100-1000,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,Yes,Yes,Don't know,No,Don't know_Not sure,Don't know_Don't know
+1222,3,1,Yes,No,Yes,Rarely,1-5,Yes,Yes,No,Somewhat easy,No,No,Yes,Yes,Yes,Yes,Yes,No,Don't know_Yes,Don't know_Yes
+1223,0,0,No,No,No,Never,26-100,No,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,Some of them,No,Maybe,Yes,Yes,Don't know_No,No_No
+1224,0,0,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,Maybe,Yes,Yes,Yes_Yes,No_Yes
+1225,0,1,No,No,Yes,Rarely,26-100,No,Yes,Don't know,Don't know,No,No,Yes,Some of them,No,Maybe,Don't know,No,No_Yes,Yes_No
+1226,3,0,No,No,No,Never,More than 1000,No,No,Don't know,Somewhat easy,Maybe,Maybe,No,Some of them,No,No,Yes,No,Yes_Not sure,Yes_Don't know
+1227,2,1,No,Yes,No,Never,More than 1000,No,Yes,Yes,Don't know,Maybe,No,Some of them,Some of them,No,No,Don't know,No,Yes_Yes,Don't know_Yes
+1228,0,0,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Somewhat easy,Yes,No,Some of them,Some of them,No,Maybe,Don't know,No,Don't know_Yes,No_No
+1229,3,0,No,No,No,Never,6-25,Yes,Yes,Yes,Don't know,Yes,No,No,No,No,No,Don't know,No,No_No,No_No
+1230,0,1,No,Yes,Yes,Sometimes,6-25,No,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,No_Yes,No_Yes
+1231,0,0,Yes,No,Yes,Sometimes,6-25,Yes,Yes,Don't know,Don't know,Maybe,Maybe,Some of them,Some of them,No,Maybe,Don't know,Yes,No_No,No_No
+1232,0,0,No,Yes,Yes,Sometimes,More than 1000,No,No,Yes,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,Yes_Yes,Yes_Yes
+1233,0,0,No,No,Yes,Rarely,6-25,No,Yes,Don't know,Don't know,No,No,Yes,Yes,No,Maybe,Don't know,No,No_Yes,No_No
+1234,0,2,No,No,Yes,Sometimes,6-25,No,No,Don't know,Don't know,Yes,Maybe,No,No,No,Maybe,Don't know,No,Don't know_No,No_Don't know
+1235,0,0,No,No,Yes,Often,26-100,No,Yes,Don't know,Don't know,Maybe,No,Yes,Some of them,No,No,Don't know,No,Yes_Yes,Yes_Don't know
+1236,3,0,No,No,Yes,Often,More than 1000,Yes,Yes,Don't know,Somewhat easy,Maybe,Maybe,Some of them,No,No,Maybe,Don't know,No,Don't know_No,Yes_Don't know
+1237,1,0,No,No,No,Sometimes,26-100,No,Yes,Yes,Don't know,Yes,Maybe,No,No,No,No,No,Yes,No_Yes,No_No
+1238,1,0,No,Yes,Yes,Often,More than 1000,No,No,Yes,Somewhat easy,Yes,Maybe,Some of them,Yes,No,No,No,Yes,Yes_Yes,Yes_Yes
+1239,1,0,No,No,No,Sometimes,100-1000,No,Yes,Don't know,Don't know,Maybe,No,Yes,Yes,Maybe,Yes,Don't know,No,Don't know_No,No_No
+1240,1,0,No,Yes,Yes,Sometimes,100-1000,No,Yes,Yes,Somewhat easy,No,No,Some of them,No,No,No,Don't know,No,Don't know_No,No_No
+1241,1,0,Yes,No,Yes,Often,6-25,Yes,Yes,Don't know,Somewhat easy,Maybe,No,Some of them,No,No,No,Don't know,No,No_No,No_No
+1242,1,0,No,No,Yes,Rarely,26-100,No,Yes,Don't know,Don't know,Maybe,No,No,No,No,Maybe,Don't know,No,Don't know_No,No_Don't know
+1243,3,1,No,Yes,Yes,Rarely,More than 1000,Yes,Yes,Don't know,Don't know,No,No,Some of them,Yes,No,No,Don't know,No,Yes_Yes,No_Yes
+1244,2,1,No,No,No,Never,More than 1000,No,No,Don't know,Don't know,Maybe,No,Some of them,Yes,No,Yes,No,No,No_No,No_Don't know
+1245,0,0,No,Yes,Yes,Often,100-1000,No,No,Yes,Don't know,Maybe,Maybe,No,Yes,No,Maybe,Don't know,Yes,Yes_Yes,Yes_Yes
+1246,2,0,No,No,No,Never,100-1000,No,Yes,Don't know,Somewhat easy,No,No,No,Some of them,Maybe,Yes,Don't know,No,Yes_Not sure,Don't know_Yes
+1247,2,0,No,No,Yes,Often,6-25,No,Yes,No,Very difficult,Yes,No,Some of them,No,No,Maybe,Don't know,Yes,No_No,No_No
+1248,3,1,No,Yes,Yes,Sometimes,26-100,No,Yes,Don't know,Don't know,Yes,Maybe,No,No,No,No,Don't know,No,Yes_No,No_Don't know
+1249,1,0,No,Yes,Yes,Sometimes,26-100,No,Yes,Yes,Very easy,No,No,Yes,Yes,Maybe,Maybe,Yes,No,Yes_Yes,Don't know_No
+1250,1,0,Yes,Yes,Yes,Often,26-100,No,Yes,Don't know,Don't know,No,No,Some of them,Yes,Maybe,Maybe,Yes,No,Yes_Not sure,Yes_Yes
+1251,2,0,No,Yes,Yes,Often,100-1000,No,No,Don't know,Somewhat easy,No,No,Some of them,Yes,No,Yes,Yes,No,No_Yes,No_No
+1252,1,0,No,Yes,Yes,Sometimes,100-1000,Yes,Yes,Yes,Don't know,Yes,No,Some of them,No,No,Maybe,No,No,Yes_Yes,Yes_No
+1253,2,0,No,Yes,No,Rarely,More than 1000,No,No,Don't know,Somewhat easy,Maybe,Maybe,Some of them,Some of them,No,No,Don't know,No,Don't know_No,Yes_Yes
+1254,0,0,No,No,Yes,Never,26-100,No,Yes,Don't know,Somewhat easy,No,No,Some of them,Some of them,No,No,Don't know,No,No_No,No_No
+1255,2,0,No,Yes,Yes,Often,26-100,Yes,Yes,Yes,Somewhat difficult,No,No,Some of them,Yes,No,No,Yes,No,Yes_Yes,No_No
+1256,2,0,No,Yes,Yes,Sometimes,More than 1000,No,Yes,Don't know,Somewhat difficult,Yes,Yes,No,No,No,No,No,No,Yes_Yes,No_No
+1257,3,1,No,No,No,Never,100-1000,Yes,Yes,Don't know,Don't know,Yes,No,No,No,No,No,No,No,No_Yes,No_No
+1258,0,0,No,Yes,Yes,Sometimes,26-100,No,No,Yes,Don't know,Maybe,No,Some of them,No,No,No,Don't know,No,Yes_Yes,No_No
